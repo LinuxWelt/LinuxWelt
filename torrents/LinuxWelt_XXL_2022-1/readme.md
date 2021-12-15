@@ -1,6 +1,6 @@
 
 
-#LinuxWelt_XXL_2022-1
+# LinuxWelt_XXL_2022-1
 
 Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus.
 
@@ -21,6 +21,5 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Hardware Detection Tool 0.5.2
     6. Shred OS 2020.05.012
 
-
-
-
+Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Die dazu benötigte Torrent-Datei findet sich hier ([Magnet Link](magnet:?xt=urn:btih:8bc773e0b66e1ea1ce6a74c8b675900a0ce1c1a5&dn=LinuxWelt_XXL_2022-1&xl=8443332699&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Flinuxtracker.org%3A2710%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce
+ "Magnet Link"))
