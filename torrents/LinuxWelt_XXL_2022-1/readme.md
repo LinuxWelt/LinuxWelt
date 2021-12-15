@@ -21,4 +21,7 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Hardware Detection Tool 0.5.2
     6. Shred OS 2020.05.012
 
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Die dazu benötigte Torrent-Datei findet sich ([hier] https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1.torrent?raw=true ([Magnet Link](https://tinyurl.com/2wx72uys "Magnet Link"))
+Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent.
+Die dazu benötigte Torrent-Datei findet sich ([hier] (https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1.torrent?raw=true "torrent-Datei")).
+
+([Magnet Link](https://tinyurl.com/2wx72uys "Magnet Link"))
