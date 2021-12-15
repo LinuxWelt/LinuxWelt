@@ -1,6 +1,6 @@
 
 
-# LinuxWelt_XXL_2022-1
+# LinuxWelt XXL 2022-1 Heft-DVD
 
 Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus.
 
