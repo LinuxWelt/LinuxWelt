@@ -25,4 +25,4 @@ Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent.
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2wx72uys "Magnet Link")).
 
-![Bootmenü LinuxWelt DVD XXL 2022-1](../main/LinuxWelt/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1_menu.png) 
+![Bootmenü LinuxWelt DVD XXL 2022-1](/main/LinuxWelt/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1_menu.png) 
