@@ -6,7 +6,7 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
 
 ## Systeme:
 	1. Linux Mint 20.3 (64 Bit)
-	2. Elementary OS 6.0 (64 Bit)
+	2. Elementary OS 6.1 (64 Bit)
 	3. Crunchbang++ 11 (64 Bit)
 	4. Rescatux 0.74 (32 Bit / 64 Bit)
 	5. Clonezilla 2.8.0 (64 Bit)
