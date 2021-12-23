@@ -21,6 +21,6 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Hardware Detection Tool 0.5.2
     6. Shred OS 2020.05.012
 
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent und wird hier vorliegen, sobald das Heft am Kios erscheint (17.01.2022).
+Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent und wird hier vorliegen, sobald das Heft am Kiosk sowie für Abonenten erscheint (17.01.2022).
 
 ![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2_menu.png) 
