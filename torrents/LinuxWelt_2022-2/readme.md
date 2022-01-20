@@ -24,7 +24,7 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
 
 Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent.
 
-Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/LWDVD22-2 "Magnet Link")).
+Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/LW222DVD-2 "Magnet Link")).
 
 ![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2_menu.png) 
 
