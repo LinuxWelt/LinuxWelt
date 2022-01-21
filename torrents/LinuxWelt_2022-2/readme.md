@@ -22,7 +22,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
     6. Shred OS 2020.05.012
 
 ## 🖼️ Screenshot Bootmenü:
-	![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2_menu.png) 
+![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2_menu.png) 
 
 
 🔗 Links:
