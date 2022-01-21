@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2022-2 Heft-DVD
 
-Hier findet sich der Download der Heft-DVD aus Magazin LinuxWelt 2022-2 als ISO-Datei. Es ist der der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2022-2 als ISO-Datei. Es ist der der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
@@ -32,3 +32,6 @@ Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/
 
 ### Der Magnet-Link für Copy & Paste:
 > magnet:?xt=urn:btih:6ad2f64fa0286438789a00894c5a509059f419d3&dn=LinuxWelt_2022-2&xl=8428539991&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
+
+## 🆓 Lizenzen
+Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
