@@ -1,4 +1,4 @@
-# 💽 LinuxWelt 2022-2 Extra-DVD
+# 💽 LinuxWelt 2022-3 Extra-DVD: Systenmtools
 
 Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-3 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf DVD-Rs (4,7 GB) und USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
