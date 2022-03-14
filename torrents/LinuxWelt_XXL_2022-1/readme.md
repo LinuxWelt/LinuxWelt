@@ -2,7 +2,7 @@
 
 # LinuxWelt XXL 2022-1 Heft-DVD, Version 2
 
-Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Diese ISO-Datei ist auch für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom Mbehebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus.
+Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Diese ISO-Datei ist auch für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus.
 
 Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
