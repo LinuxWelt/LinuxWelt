@@ -2,12 +2,10 @@
 
 # 💽 LinuxWelt XXL 2022-1 Heft-DVD, Version 2
 
-Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Diese ISO-Datei ist auch für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus.
+Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Diese ISO-Datei ist auch für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus auf bestimmten PC/Notebooks.
 
 ## 🖼️ Screenshot Bootmenü:
-
-<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1_menu.png" width="60%">
-
+<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-1_menu.png" width="70%">
 
 Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
@@ -26,10 +24,17 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Hardware Detection Tool 0.5.2
     6. Shred OS 2020.05.012
 
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent.
+## 🔗 Links:
+Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1.v2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2p8n4uxd "Magnet Link")). Der Magnet-Link findet sich auch hier für Copy & Paste:
 
+### 🧲 Magnet-Link für Copy & Paste:
+```
 magnet:?xt=urn:btih:7471a6b0106aeb689e70847b9cf6ea2baa0b9066&dn=LinuxWelt_XXL_2022-1.v2&xl=8446443614&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbtracker.top%3A11451%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
+```
 
 Bitte beachten Sie, dass wir von Zeit zu Zeit wir diese Links mit neuen Trackern aktualisieren müssen.
+
+## 🆓 Lizenzen
+Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
