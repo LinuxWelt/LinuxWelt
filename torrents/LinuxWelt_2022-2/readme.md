@@ -30,7 +30,9 @@ Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kan
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-2/LinuxWelt_2022-2.v2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2p8b97hj "Magnet Link")).
 
 ### 🧲 Magnet-Link für Copy & Paste:
+```
 magnet:?xt=urn:btih:10ee2b247fff327f0c0604193abf6de625db9414&dn=LinuxWelt_2022-2.v2&xl=8411553882&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbtracker.top%3A11451%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
+```
 
 ## 🆓 Lizenzen
 Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
