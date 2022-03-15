@@ -6,10 +6,10 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 💻 Systeme:
 	1. Ubuntu 21.10 (64 Bit)
-    	2. Fedora Linux 35 Installer (64 Bit)
-    	3. Xubuntu Core 21.10 (64 Bit)
-    	4. Sparky Linux 6.0 (64 Bit)
-    	5. Linux Lite 5.6 (64 Bit)
+	2. Fedora Linux 35 Installer (64 Bit)
+	3. Xubuntu Core 21.10 (64 Bit)
+	4. Sparky Linux 6.0 (64 Bit)
+	5. Linux Lite 5.6 (64 Bit)
 
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
