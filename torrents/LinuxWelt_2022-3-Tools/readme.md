@@ -3,7 +3,7 @@
 Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-3 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf DVD-Rs (4,7 GB) und USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 ## 🖼️ Screenshot Bootmenü:
-![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_2022-3-Tools/LinuxWelt_2022-3-Tools_menu.png) 
+![Bootmenü LinuxWelt DVD XXL 2022-1](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_2022-3-Tools_menu.png) 
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
