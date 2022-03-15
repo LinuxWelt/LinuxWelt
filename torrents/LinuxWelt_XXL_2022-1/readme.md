@@ -6,7 +6,7 @@ Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Red
 
 ## 🖼️ Screenshot Bootmenü:
 
-<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1_menu.png" width="800" height="600">
+<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1_menu.png" width="50%">
 
 
 Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält folgende Systeme beziehungsweise bootfähige Utilities.
