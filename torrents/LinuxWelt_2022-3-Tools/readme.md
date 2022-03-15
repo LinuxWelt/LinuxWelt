@@ -27,7 +27,7 @@ Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungsta
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/d7971879d796cfc76077b6aba6af8c00c49cc6e2/torrents/LinuxWelt_2022-3-Tools/LinuxWelt_Tools_2022-3.v2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/8uj3d7p8 "Magnet Link")). 
 
-### 🔗 Magnet-Link für Copy & Paste:
+### 🧲 Magnet-Link für Copy & Paste:
 magnet:?xt=urn:btih:f3a2775039c453b306e7702c303c6231200297db&dn=LinuxWelt_Tools_2022-3.v2&xl=4758370400&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbtracker.top%3A11451%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
 
 
