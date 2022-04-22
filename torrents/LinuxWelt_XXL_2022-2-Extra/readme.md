@@ -29,7 +29,7 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
 ## 🔗 Links:
 Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die dazu benötigte Torrent-Datei folgt hier.
+Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-2-Extra/LinuxWelt_XXL_Extra_2022-2.torrent?raw=true) 
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
