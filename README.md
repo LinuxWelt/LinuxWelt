@@ -10,6 +10,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 - [LinuxWelt_2022-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-2)
 - [LinuxWelt_2022-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-3)
 - [LinuxWelt_2022-3-Tools](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-3-Tools)
+- [LinuxWelt_2022-4](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-4)
+- [LinuxWelt_2022-4-Tools](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-4-Tools)
 
 
 
