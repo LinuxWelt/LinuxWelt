@@ -1,4 +1,4 @@
- LinuxWelt 2022-5 Extra-DVD: Spezial- und Live-Systeme
+LinuxWelt 2022-5 Extra-DVD: Spezial- und Live-Systeme
 
 Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-5 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,45 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
@@ -6,7 +6,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 💻 Systeme:
     1. Backbox 7 (64 Bit)
-    2. 4M Linux	40 (64 Bit)
+    2. 4M Linux 40 (64 Bit)
     3. Clonezilla Live 3.0 (64 Bit)
     4. Gparted Live 1.4.0 (64 Bit)
 
