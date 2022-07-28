@@ -25,10 +25,11 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🔗 Links:
 Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungstag über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-5-Tools/LinuxWelt_Tools_2022-5.torrent?raw=true) (Link folgt...).
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-5-Tools/LinuxWelt_Tools_2022-5.torrent?raw=true).
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
+magnet:?xt=urn:btih:cf174fcfe411f15003f811e33df5eedbbb3f7cd7&dn=LinuxWelt_2022-5-Extra&xl=4704837725&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=http%3A%2F%2Fvps02.net.orel.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ffe.dealclub.de%3A6969%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leech.ie%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.altrosky.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Frun-2.publictracker.xyz%3A6969%2Fannounce&tr=https%3A%2F%2Ftr.abiir.top%3A443%2Fannounce&tr=udp%3A%2F%2Fzecircle.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.aeerso.space%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Fben.kerbertools.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftranskaroo.joustasie.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fpsyco.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fthemaninashed.com%3A6969%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ffh2.cmp-gaming.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fuploads.gamecoast.net%3A6969%2Fannounce&tr=udp%3A%2F%2Flloria.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Frep-art.ynh.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fmail.zasaonsk.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fsmtp-relay.odysseylabel.com.au%3A6969%2Fannounce
 magnet:?xt=urn:btih:
 ```
 
