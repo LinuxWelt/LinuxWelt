@@ -25,7 +25,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🔗 Links:
 Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungstag über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-5-Tools/LinuxWelt_Tools_2022-5.torrent?raw=true).
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-5-Tools/LinuxWelt_2022-5-Extra.torrent?raw=true). ([Magnet Link](https://tinyurl.com/yc82dk4u "Magnet Link")).
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
