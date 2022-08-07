@@ -12,6 +12,9 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
     2. Xubuntu 22.04 LinuxWelt-Edition (64 Bit)
     3. Porteus 5.0 LinuxWelt-Edition (64 Bit)
 
+Beschreibung der Systeme: Ubuntu Mate 22.04 und Xubuntu 22.04 enhalten in der LinuxWelt-Edition den Browser Firefox als DEB-Paket und nicht als Snap. Das DEB-Paket stamm aus dem PPA https://launchpad.net/~mozillateam/+archive/ubuntu/ppa des Mozilla Teams. Porteus 5.0 liegt in der LinuXwelt-Edition mit XFCE-Desktop (deutschsprachig) sowie Firefox 103 und Google Chrome 103 vor.
+
+
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
     2. Memtest86+ 5.31b (Nur BIOS)
@@ -28,8 +31,7 @@ Die zum Download benötigte Torrent-Datei folgt hier zum Verkaufsstart des Hefte
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
-magnet:?xt=urn:btih:bbfcf6e484c16a0f268ece0abf1fd6d71e05dddd&dn=LinuxWelt_2022-4&xl=8290588759&tr=udp%3A%2F%2Ftracker.altrosky.nl%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.nanoha.org%3A443%2Fannounce&tr=https%3A%2F%2Ftr.abiir.top%3A443%2Fannounce&tr=https%3A%2F%2Fhcbt.pp.ua%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fpublic.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
-[Link folgt zum Verkaufsstart]
+magnet:?xt=urn:btih:b1ff6eb4d6d597cf573f0eb48f58199a27a85898&dn=LinuxWelt_XXL_Extra_2022-3&xl=4539162721&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=http%3A%2F%2Fvps02.net.orel.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ffe.dealclub.de%3A6969%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leech.ie%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.altrosky.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Frun-2.publictracker.xyz%3A6969%2Fannounce&tr=https%3A%2F%2Ftr.abiir.top%3A443%2Fannounce&tr=udp%3A%2F%2Fzecircle.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.aeerso.space%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Fben.kerbertools.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftranskaroo.joustasie.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fpsyco.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fthemaninashed.com%3A6969%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ffh2.cmp-gaming.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fuploads.gamecoast.net%3A6969%2Fannounce&tr=udp%3A%2F%2Flloria.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Frep-art.ynh.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fmail.zasaonsk.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fsmtp-relay.odysseylabel.com.au%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Flaze.cc%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt.ktrackers.com%3A6666%2Fannounce&tr=udp%3A%2F%2Fchouchou.top%3A8080%2Fannounce&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
 ```
 
 ## 🆓 Lizenzen
