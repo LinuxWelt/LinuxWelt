@@ -1,9 +1,9 @@
-# 💽 LinuxWelt 2022-6 Extra-Image für USB-Sticks und DVD-Rs
+# 💽 LinuxWelt 2022-6 Extra-Image
 
+
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="99%">
 
 ## 🖼️ Screenshot Bootmenü:
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="70%">
-
 Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-6 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,45 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
