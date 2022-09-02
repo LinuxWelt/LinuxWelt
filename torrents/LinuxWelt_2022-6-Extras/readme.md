@@ -1,4 +1,4 @@
-# 💽 LinuxWelt 2022-6 Extra-DVD: Spezial- und Live-Systeme
+# 💽 LinuxWelt 2022-6 Extra-Image für USB-Sticks und DVD-Rs
 
 
 ## 🖼️ Screenshot Bootmenü:
