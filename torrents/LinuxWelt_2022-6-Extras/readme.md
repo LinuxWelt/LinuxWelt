@@ -1,9 +1,6 @@
 # 💽 LinuxWelt 2022-6 Extra-Image
 
 
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="99%">
-
-## 🖼️ Screenshot Bootmenü:
 Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-6 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,45 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
@@ -22,6 +19,9 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Shred OS 2021.08.2 (BIOS und UEFI)
     7. Netboot.xyz 2.0.60 (32/64 Bit) (BIOS und UEFI)
+
+## 🖼️ Screenshot Bootmenü:
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="99%">
 
 
 ## 🔗 Links:
