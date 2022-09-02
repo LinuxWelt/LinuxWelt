@@ -21,7 +21,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
     7. Netboot.xyz 2.0.60 (32/64 Bit) (BIOS und UEFI)
 
 ## 🖼️ Screenshot Bootmenü:
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="99%">
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="70%">
 
 
 ## 🔗 Links:
