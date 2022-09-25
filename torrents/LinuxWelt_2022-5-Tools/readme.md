@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2022-5 Extra-DVD: Spezial- und Live-Systeme
 
-Hier findet sich der Download der Extra-DVD zum LinuxWelt Magazin 2022-5 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,45 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Extra-DVD zum Magazin LinuxWelt 2022-5 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Für eine DVD-R ist dieses Image wegen Overhead laut Leser-Feedback zu gross geworden. 
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
