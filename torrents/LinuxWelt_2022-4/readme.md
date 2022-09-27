@@ -27,7 +27,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 🔗 Download:
 
-Image-Datei: [LinuxWelt_2022-4.iso](https://torrent.code2decode.com/LinuxWelt_2022-4/LinuxWelt_2022-4.iso), 4,48 GB
+Image-Datei: [LinuxWelt_2022-4.iso](https://torrent.code2decode.com/LinuxWelt_2022-4/LinuxWelt_2022-4.iso), 7,8 GB
 
 SHA256 Checksumme: 25bf975cd017d65d808e0811104e8ccd729f25fdc0f2064d112ad1afd4334adc
 
