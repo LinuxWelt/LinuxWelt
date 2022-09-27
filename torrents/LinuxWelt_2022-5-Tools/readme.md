@@ -1,7 +1,6 @@
 # 💽 LinuxWelt 2022-5 Extra-DVD: Spezial- und Live-Systeme
 
-Hier findet sich der Download der Extra-DVD zum Magazin LinuxWelt 2022-5 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Für eine DVD-R ist dieses Image wegen Overhead laut Leser-Feedback zu gross geworden. 
-
+Hier findet sich der Download der Extra-DVD zum Magazin LinuxWelt 2022-5 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
 ## 💻 Systeme:
@@ -22,8 +21,14 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-5-Tools_menu.png" width="70%">
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungstag über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+## 🔗 Download:
+
+Image-Datei [LinuxWelt_2022-5-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2022-5/LinuxWelt_2022-5-Extra.iso)
+SHA256 Checksumme: d0f055cd29a6310ebe4ecb6118121de16d7445e69c42f9ee768fc4f15d52c111
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-5-Tools/LinuxWelt_2022-5-Extra.torrent?raw=true). ([Magnet Link](https://tinyurl.com/yc82dk4u "Magnet Link")).
 
