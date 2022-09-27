@@ -22,8 +22,16 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
     6. Shred OS 2021.08.2
     7. Netboot.xyz 2.53
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungstag über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_Tools_2022-3.v3.iso](https://torrent.code2decode.com/LinuxWelt_Tools_2022-3.v3/LinuxWelt_Tools_2022-3.v3.iso), 4,4 GB
+
+SHA256 Checksumme: da089e9d9ba1b49cf6c713af408ca32c08a2652be367ab483b08666166cb50ca
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-3-Tools/LinuxWelt_Tools_2022-3.v3.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2p7w55v3 "Magnet Link")). 
 
