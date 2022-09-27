@@ -27,7 +27,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 🔗 Download:
 
-Image-Datei: [LinuxWelt_Tools_2022-3.v3.iso](https://torrent.code2decode.com/LinuxWelt_2022-2.v2/LinuxWelt_2022-2.v2.iso), 7,8 GB
+Image-Datei: [LinuxWelt_2022-2.v2.iso](https://torrent.code2decode.com/LinuxWelt_2022-2.v2/LinuxWelt_2022-2.v2.iso), 7,8 GB
 
 SHA256 Checksumme: ea48442aa8005bc94bc32af0455c2dfd65b3db9a73955dd69952f475e1c1b0b8
 
