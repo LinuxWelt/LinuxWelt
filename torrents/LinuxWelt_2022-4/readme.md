@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2022-4 Heft-DVD
 
-Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2022-4 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Extra-DVD zum Magazin LinuxWelt 2022-4 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
@@ -25,8 +25,15 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-4_menu.png" width="70%">
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_2022-4.iso](https://torrent.code2decode.com/LinuxWelt_2022-4/LinuxWelt_2022-4.iso), 4,48 GB
+
+SHA256 Checksumme: 25bf975cd017d65d808e0811104e8ccd729f25fdc0f2064d112ad1afd4334adc
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-4/LinuxWelt_2022-4.torrent?raw=true) ([Magnet Link](https://tinyurl.com/55ed4s58 "Magnet Link")).
 
