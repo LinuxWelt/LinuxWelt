@@ -24,8 +24,14 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-4-Tools_menu.png" width="70%">
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 4,7 GB Umfang) erfolgt nach Heft-Erscheinungstag über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_2022-4-Extra.iso](https://torrent.code2decode.com/LinuxWelt_Tools_2022-4/LinuxWelt_2022-4-Extra.iso), 4,35 GB
+
+SHA256 Checksumme: 21e34c3266cabf7a04cddb559fe30fad9c8ae4ba38f7dec835a3ab204990b3ac
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-4-Tools/LinuxWelt_Tools_2022-4.torrent?raw=true) ([Magnet Link](https://tinyurl.com/jwfccf6f "Magnet Link")).
 
