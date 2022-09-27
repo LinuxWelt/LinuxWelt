@@ -25,9 +25,9 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 🔗 Download:
 
-Image-Datei: [LinuxWelt_2022-6.iso](https://torrent.code2decode.com/LinuxWelt_2022-6/LinuxWelt_2022-6.iso), 4,48 GB
+Image-Datei: [LinuxWelt_2022-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2022-6-Extra/LinuxWelt_2022-6-Extra.iso), 4,48 GB
 
-SHA256 Checksumme: 6978d494780891e1748cedad5016c6601555913340ed805e715d9ffc6473d03f
+SHA256 Checksumme: e0630ac845ad175daa5c8b7109910bb8c4c464cfc0f549b23243b09d22008566
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
