@@ -2,7 +2,7 @@
 
 # 💽 LinuxWelt XXL 2022-1 Heft-DVD, Version 2
 
-Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Diese ISO-Datei ist auch für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet im BIOS sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus auf bestimmten PC/Notebooks.
+Die Heft-DVD der LinuxWelt XXL 2022-1 als ISO-Datei, offizieller Torrent der Redaktion. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-1_menu.png" width="70%">
@@ -24,8 +24,15 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Hardware Detection Tool 0.5.2
     6. Shred OS 2020.05.012
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_Tools_2022-3.v3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-1.v2/LinuxWelt_Tools_2022-3.v3.iso), (Grösse: 7,8 GB)
+
+SHA256 Checksumme: 87a750a6945075c7cafd68a383bb1d3848a5699aae5666ee8e5334717bc27c78
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-1/LinuxWelt_XXL_2022-1.v2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2p8n4uxd "Magnet Link")). Der Magnet-Link findet sich auch hier für Copy & Paste:
 
