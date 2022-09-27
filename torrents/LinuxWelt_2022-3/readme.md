@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2022-3 Heft-DVD, Version 2
 
-Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2022-3 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus.
+Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2022-3 als ISO-Datei.Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Dies ist Version 2 der Heft-DVD, die zur besseren Kompatibilität mit Firmwares auf eine neue Ausgabe von Grub 2.06 aktualisiert wurde. Das Update vom März 2022 behebt unter anderem das Problem eines schwarzen Bildschirms beim Boot im UEFI- und BIOS-Modus.
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
@@ -21,8 +21,16 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-3_menu.png" width="70%">
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_2022-3/LinuxWelt_2022-3.iso), 7,8 GB
+
+SHA256 Checksumme: 25bf975cd017d65d808e0811104e8ccd729f25fdc0f2064d112ad1afd4334adc
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2022-3/LinuxWelt_2022-3.v2.torrent?raw=true) ([Magnet Link](https://tinyurl.com/2p8ae7dv "Magnet Link")).
 
