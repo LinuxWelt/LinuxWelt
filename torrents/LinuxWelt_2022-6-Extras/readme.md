@@ -23,7 +23,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-6-Exra.png" width="70%">
 
-## 🔗 Download:
+## 📥 Download:
 
 Image-Datei: [LinuxWelt_2022-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2022-6-Extra/LinuxWelt_2022-6-Extra.iso) (Grösse: 4,34 GB)
 
