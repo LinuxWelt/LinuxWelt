@@ -24,8 +24,16 @@ Beschreibung der Systeme: Ubuntu Mate 22.04 und Xubuntu 22.04 enhalten in der Li
     6. Shred OS 2021.08.2 (BIOS und UEFI)
     7. Netboot.xyz 2.0.59 (BIOS und UEFI)
 
-## 🔗 Links:
-Der Download der ISO-Datei (rund 8 GB Umfang) erfolgt über Bittorrent. Dazu kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+## 🔗 Download:
+
+Image-Datei: [LinuxWelt_XXL_Extra_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso), (Grösse: 4,4 GB)
+
+SHA256 Checksumme: e9e4b76c771ddefb925c7e9677d56f4241160a68f74e865ae0222407fa794b6d
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-3-Extra/LinuxWelt_XXL_2022-3-Extra.torrent?raw=true) 
 
