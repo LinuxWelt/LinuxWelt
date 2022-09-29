@@ -6,7 +6,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 
 # 💽 Liste der Downloads
 
-## LinuxWelt Heft-DVDs und Extra-DVDs
+## 📥 LinuxWelt Heft-DVDs und Extra-DVDs
 
 - [LinuxWelt_2022-6-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-6-Extras)
 - [LinuxWelt_2022-6](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-6)
@@ -19,7 +19,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 - [LinuxWelt_2022-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-2)
 - [LinuxWelt_2022-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-1)
 
-## Sonderhefte LinuxWelt Heft-DVDs und Extra-DVDs
+## 📥 Sonderhefte LinuxWelt Heft-DVDs und Extra-DVDs
 
 - [Sonderheft_XXL_2022-3 Extra-DVD](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2022-3-Extra)
 - [Sonderheft_XXL_2022-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2022-3)
