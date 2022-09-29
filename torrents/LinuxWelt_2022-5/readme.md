@@ -7,7 +7,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 ## 💻 Systeme:
     1. Ubuntu Mate 22.04 (64 Bit)
     2. Peppermint OS 5-22-2022 (64 Bit)
-    3. Xubuntu LinuxWelt-Edition 22.04 (64 Bit)
+    3. Xubuntu LinuxWelt-Edition 22.04 (64 Bit)  - Firefox ist hier als DEB vorinstalliert.
     4. Open Suse Leap (Installer) 15.4 (64 Bit)
     5. Endeavour OS "Artemis" 22.6 (64 Bit)
     6. Void Pup 22.02
