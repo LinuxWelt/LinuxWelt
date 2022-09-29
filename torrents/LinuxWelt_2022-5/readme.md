@@ -25,11 +25,13 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2022-5_menu.png" width="70%">
 
 
-## 🔗 Download:
+## 📥  Download:
 
-Image-Datei: [LinuxWelt_2022-5.iso](https://torrent.code2decode.com/LinuxWelt_2022-5/LinuxWelt_2022-5.iso), 7,9 GB
+Image-Datei: [LinuxWelt_2022-5.iso](https://torrent.code2decode.com/LinuxWelt_2022-5/LinuxWelt_2022-5.iso), (Grösse: 7,9 GB) [Mirror](https://torrent.code2decode.com/LinuxWelt_2022-5/LinuxWelt_2022-5.iso)
 
 SHA256 Checksumme: 4d9d2e5de5b3f4b7e08a1e3b4c81c9e8744d9deb961753bde55b0ede2ab3a789
+
+Im Fall einer Überlastung des primären Servers, bitte den Linkd "Mirror" für Downloads nutzen.
 
 
 ## 🔗 Bittorrent:
