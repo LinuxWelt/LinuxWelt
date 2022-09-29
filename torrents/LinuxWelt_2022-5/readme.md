@@ -31,7 +31,7 @@ Image-Datei: [LinuxWelt_2022-5.iso](https://torrent.code2decode.com/LinuxWelt_20
 
 SHA256 Checksumme: 4d9d2e5de5b3f4b7e08a1e3b4c81c9e8744d9deb961753bde55b0ede2ab3a789
 
-Im Fall einer Überlastung des primären Servers, bitte den Linkd "Mirror" für Downloads nutzen.
+Im Fall einer Überlastung des primären Servers, bitte den Link "Mirror" für Downloads nutzen.
 
 
 ## 🔗 Bittorrent:
