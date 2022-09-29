@@ -22,12 +22,13 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     6. Shred OS 2021.08
     7. Netboot.xyz 2.0.57
 
-### 🔗 Download:
+### 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-3/LinuxWelt_XXL_2022-3.iso), (Grösse: 7,4 GB)
+Image-Datei: [LinuxWelt_XXL_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-3/LinuxWelt_XXL_2022-3.iso), (Grösse: 7,4 GB) [Mirror](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso)
 
 SHA256 Checksumme: e0084081a5e7036fde1ef2244f79b7ef75e23621ad757607b6f6c26b38337e50
 
+Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
