@@ -25,11 +25,13 @@ Beschreibung der Systeme: Ubuntu Mate 22.04 und Xubuntu 22.04 enhalten in der Li
     7. Netboot.xyz 2.0.59 (BIOS und UEFI)
 
 
-## 🔗 Download:
+## 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_Extra_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso), (Grösse: 4,4 GB)
+Image-Datei: [LinuxWelt_XXL_Extra_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso), (Grösse: 4,4 GB) [Mirror](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso)
 
 SHA256 Checksumme: e9e4b76c771ddefb925c7e9677d56f4241160a68f74e865ae0222407fa794b6d
+
+Im Falle einer Überlastung des primären Servers bitte den Downloadlink 
 
 
 ## 🔗 Bittorrent:
