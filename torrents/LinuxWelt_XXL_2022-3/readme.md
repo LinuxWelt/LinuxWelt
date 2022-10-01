@@ -24,7 +24,7 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
 
 ### 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-3/LinuxWelt_XXL_2022-3.iso), (Grösse: 7,4 GB) [Mirror](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso)
+Image-Datei: [LinuxWelt_XXL_2022-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-3/LinuxWelt_XXL_2022-3.iso), (Grösse: 7,4 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_XXL_Extra_2022-3/LinuxWelt_XXL_Extra_2022-3.iso)
 
 SHA256 Checksumme: e0084081a5e7036fde1ef2244f79b7ef75e23621ad757607b6f6c26b38337e50
 
