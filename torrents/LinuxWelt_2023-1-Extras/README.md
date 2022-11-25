@@ -1,7 +1,6 @@
 # 💽 LinuxWelt 2023-1 Extra-Image
 
-
-Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-1 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,45 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-1 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfähige Utilities.
 
@@ -22,7 +21,7 @@ Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfä
 
 ## 📥 Download:
 
-(folgt in Kürze!)
+(folgt ebenfalls in Kürze!)
 
 SHA256 Checksumme: cedf01dfb60190be47b2b3de45ee59d61bc9138119d39cf011715f1be6894228
 
@@ -31,7 +30,9 @@ Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wähle
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die zum Download benötigte Torrent-Datei findet sich hier: (folgt)
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2023-1-Extras/LinuxWelt_2023-1-Extra.torrent?raw=true). ([Magnet Link](https://tinyurl.com/lw-23-1-extra "Magnet Link")).
+
+
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
