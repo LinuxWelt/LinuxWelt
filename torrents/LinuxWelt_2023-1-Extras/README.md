@@ -24,7 +24,7 @@ Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfä
 
 (folgt in Kürze!)
 
-SHA256 Checksumme: (folgt in Kürze!)
+SHA256 Checksumme: cedf01dfb60190be47b2b3de45ee59d61bc9138119d39cf011715f1be6894228
 
 Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
@@ -35,7 +35,7 @@ Die zum Download benötigte Torrent-Datei findet sich hier: (folgt)
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
-folgt in Kürze!
+magnet:?xt=urn:btih:ef97efc494657b5d3427529b69aa7640ba90fdf1&dn=LinuxWelt_2023-1-Extra&xl=4697909341&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker2.dler.com%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.cyber-hub.net%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Facxx.de%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leech.ie%3A1337%2Fannounce&tr=udp%3A%2F%2Fmail.artixlinux.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tcp.exchange%3A6969%2Fannounce&tr=https%3A%2F%2Ftr.abiir.top%3A443%2Fannounce&tr=udp%3A%2F%2Fben.kerbertools.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftranskaroo.joustasie.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fpsyco.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fthemaninashed.com%3A6969%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ffh2.cmp-gaming.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fuploads.gamecoast.net%3A6969%2Fannounce&tr=udp%3A%2F%2Flloria.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Frep-art.ynh.fr%3A6969%2Fannounce&tr=udp%3A%2F%2Fmail.zasaonsk.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Flaze.cc%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt.ktrackers.com%3A6666%2Fannounce&tr=udp%3A%2F%2Fchouchou.top%3A8080%2Fannounce&tr=http%3A%2F%2Ftracker2.itzmx.com%3A6961%2Fannounce
 ```
 
 ## 🆓 Lizenzen
