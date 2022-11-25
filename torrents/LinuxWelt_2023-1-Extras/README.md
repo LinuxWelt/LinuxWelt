@@ -13,11 +13,9 @@ Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfä
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
     2. Memtest86+ 6.0 (BIOS und UEFI)
-    3. Plop Boot Manager 6 (BIOS)
-    4. Plop Kexec 1.6 (BIOS und UEFI)
-    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
-    6. Shred OS 2021.08.2 (BIOS und UEFI)
-    7. Netboot.xyz 2.0.62 (32/64 Bit) (BIOS und UEFI)
+    3. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    4. Shred OS 2021.08.2 (BIOS und UEFI)
+    5. Netboot.xyz 2.0.62 (32/64 Bit) (BIOS und UEFI)
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-1-Extra.png" width="70%">
