@@ -20,7 +20,7 @@ Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfä
     7. Netboot.xyz 2.0.62 (32/64 Bit) (BIOS und UEFI)
 
 ## 🖼️ Screenshot Bootmenü:
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-1-Exra.png" width="70%">
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-1-Extra.png" width="70%">
 
 ## 📥 Download:
 
