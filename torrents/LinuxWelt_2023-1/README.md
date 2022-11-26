@@ -26,12 +26,9 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 📥 Download:
 
-Image-Datei: (folgt in Kürze!)
+Image-Datei: [LinuxWelt_2023-1.iso](https://torrent.code2decode.com/LinuxWelt_2023-1/LinuxWelt_2023-1.iso), 7,6 GB
 
 SHA256 Checksumme: 2d6dcdaf5744426f9840f793d0242c630053b2396aa91e45c3df687614e1c767
-
-Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
-
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
