@@ -4,7 +4,7 @@ Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2023-1 als 
 
 Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
- (64 Bit)## 💻 Systeme:
+## 💻 Systeme:
     1. Ubuntu 22.10 (64 Bit)
     2. Xubuntu Core LinuxWelt-Edition 22.10 (64 Bit)
     3. Fedora Linux 37 Installer (64 Bit)
