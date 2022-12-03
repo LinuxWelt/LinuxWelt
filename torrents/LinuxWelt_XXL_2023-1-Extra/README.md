@@ -20,3 +20,22 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
     4. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Netboot.xyz 2.0.59 (BIOS und UEFI)
 
+
+## 📥 Download:
+
+Image-Datei: (folgt in Kürze)
+
+SHA256 Checksumme: (folgt in Kürze)
+
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+
+### 🧲 Magnet-Link für Copy & Paste:
+```
+(folgt in Kürze)
+```
+
+## 🆓 Lizenzen
+Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
