@@ -1,6 +1,6 @@
-# 💽 Sonderheft XXL 3/22 Heft-DVD
+# 💽 Sonderheft LinuxWelt XXL 3/22 Heft-DVD
 
-Hier findet sich in Kürze (Mite August 2022) der Download der Heft-DVD aus dem Sonderheft XXL 3/22 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Heft-DVD aus dem Sonderheft XXL 3/22 als ISO-Datei. Es ist der offizielle Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-3-Extras_menu.png" width="70%">
