@@ -31,6 +31,7 @@ SHA256 Checksumme: 278a9bec0220a56433852682b750804d72d48650d5096cd93afd6364a3894
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
+Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2023-1-Extra/LinuxWelt_XXL_Extra_2023-1.torrent?raw=true) ([Magnet Link](https://tinyurl.com/sh-xxl-ex123 "Magnet Link")). Der Magnet-Link findet sich auch hier für Copy & Paste:
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
