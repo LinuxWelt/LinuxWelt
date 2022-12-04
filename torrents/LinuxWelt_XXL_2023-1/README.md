@@ -25,9 +25,16 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL-2023-1_menu.png" width="70%">
 
+## 📥 Download:
+
+Image-Datei: (folgt in Kürze)
+
+SHA256 Checksumme: 4706497f341a5616992599f802dbda6a3141707bb406573074a770948db264f9
+
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
 
 
 ### 🧲 Magnet-Link für Copy & Paste:
