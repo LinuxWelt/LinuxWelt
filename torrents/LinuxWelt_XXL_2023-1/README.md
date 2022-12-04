@@ -18,7 +18,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
     2. Memtest86+  6.0
     3. Shred OS  2021.08.2
     4. Hardware Detection Tool 0.5.2
-    5. Plop Boot Manager	6.0
+    5. Plop Boot Manager 6.0
     6. Netboot.xyz	2.0.62
 
 
