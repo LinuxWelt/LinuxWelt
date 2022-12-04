@@ -8,7 +8,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 
 ## 💻 Systeme:
     1. Ubuntu 22.04.1 (64 Bit)
-    2. KDE Neon User Edition	2022-11 (64 Bit)
+    2. KDE Neon User Edition 2022-11 (64 Bit)
     3. Xubuntu Core 22.10 (64 Bit)
     4. LinuxWelt Rettungssystem 9.1 - Stand Novemver 2022 (64 Bit)
 
