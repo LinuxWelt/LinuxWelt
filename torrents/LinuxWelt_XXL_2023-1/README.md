@@ -27,7 +27,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_2023-1.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2023-1/LinuxWelt_XXL_2023-1.iso), (Grösse: 7,8 GB)
+Image-Datei: [LinuxWelt_XXL_2023-1.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2023-1/LinuxWelt_XXL_2023-1.iso), (Grösse: 7,9 GB)
 
 SHA256 Checksumme: 4706497f341a5616992599f802dbda6a3141707bb406573074a770948db264f9
 
