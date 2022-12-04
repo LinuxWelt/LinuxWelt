@@ -1,6 +1,26 @@
-Der Download erscheint an dieser Stelle, sobald das Sonderheft XXL 2023-1 ausgliefert wird.
+# 💽 Sonderheft LinuxWelt XXL 1/23 Heft-DVD
 
-Bitte noch etwas Geduld!
+Auf dieser Seite findet sich in Kürze der Download der Heft-DVD des Sonderhefts LinuxWelt XXL 1/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 8 GB Kapazität geeignet sowie für reguläre DVD-Rs (4,7 GB). Dabei startet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
+
+
+Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
+
+
+## 💻 Systeme:
+    1. Ubuntu 22.04.1 (64 Bit)
+    2. KDE Neon User Edition	2022-11 (64 Bit)
+    3. Xubuntu Core 22.10 (64 Bit)
+    4. LinuxWelt Rettungssystem 9.1 - Stand Novemver 2022 (64 Bit)
+
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2
+    2. Memtest86+  6.0
+    3. Shred OS  2021.08.2
+    4. Hardware Detection Tool 0.5.2
+    5. Plop Boot Manager	6.0
+    6. Netboot.xyz	2.0.62
+
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL-2023-1_menu.png" width="70%">
