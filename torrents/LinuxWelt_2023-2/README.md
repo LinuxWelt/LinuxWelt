@@ -2,28 +2,6 @@ LinuxWelt 2023-2 Heft-DVD
 
 Hier findet sich ab ende Januar 2023 der Download der Heft-DVD aus dem LinuxWelt Magazin 2023-1 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities. Bitte beachten Sie, dass die Download-Version der ISO-Datei kein LinuxWelt-Ebook als PDF enthält.
 
-Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities.
-computer Systeme:
-
-1. Ubuntu 22.10 (64 Bit)
-2. Xubuntu Core LinuxWelt-Edition 22.10 (64 Bit)
-3. Fedora Linux 37 Installer (64 Bit)
-4. Arch Linux Calamares 2022-09 (64 Bit)
-5. LinuxWelt Rettungssystem 9.0 (64 Bit)
-
-Utilities:
-
-1. Super Grub Disk 2.04s2 (BIOS und UEFI)
-2. Memtest86+ 6.0 (BIOS und UEFI)
-3. Plop Boot Manager 6 (BIOS)
-4. Plop Kexec 1.6 (BIOS und UEFI)
-5. Hardware Detection Tool 0.5.2 (Nur BIOS)
-6. Shred OS 2021.08.2 (BIOS und UEFI)
-7. Netboot.xyz 2.0.60 (BIOS und UEFI)
-
-Screenshot Bootmenü: Folgt zum Verkaufsstart der Linux 2023-2
-
-Download:
 
 Image-Datei: Folgt zum Verkaufsstart der Linux 2023-2
 
