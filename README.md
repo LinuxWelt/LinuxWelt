@@ -7,8 +7,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 # 💽 Liste der Downloads
 
 ## 📥 LinuxWelt Heft-DVDs und Extra-DVDs
-- LinuxWelt_2023-2-Extra
-- LinuxWelt_2023-2
+- [LinuxWelt_2023-2-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-2-Extras)
+- [LinuxWelt_2023-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-2)
 - [LinuxWelt_2023-1-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-1-Extras)
 - [LinuxWelt_2023-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-1)
 - [LinuxWelt_2022-6-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2022-6-Extras)
