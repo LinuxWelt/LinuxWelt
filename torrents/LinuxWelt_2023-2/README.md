@@ -26,7 +26,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 Image-Datei: [LinuxWelt_2023-2.iso](https://torrent.code2decode.com/LinuxWelt_2023-2/LinuxWelt_2023-2.iso), 7,7 GB
 
-SHA256 Checksumme: 2d6dcdaf5744426f9840f793d0242c630053b2396aa91e45c3df687614e1c767
+SHA256 Checksumme: 51452b79c44323d6476a32eabd58f5b964acb46c610f9f86bb1a333ee25fda2c
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
