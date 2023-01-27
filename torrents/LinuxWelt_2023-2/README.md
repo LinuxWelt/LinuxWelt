@@ -24,7 +24,7 @@ Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige 
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2023-1.iso](https://torrent.code2decode.com/LinuxWelt_2023-2/LinuxWelt_2023-2.iso), 7,6 GB
+Image-Datei: [LinuxWelt_2023-2.iso](https://torrent.code2decode.com/LinuxWelt_2023-2/LinuxWelt_2023-2.iso), 7,6 GB
 
 SHA256 Checksumme: 2d6dcdaf5744426f9840f793d0242c630053b2396aa91e45c3df687614e1c767
 
