@@ -1,7 +1,6 @@
 # 💽 Sonderheft LinuxWelt XXL 1/23 Heft-DVD
 
-Auf dieser Seite findet sich in Kürze der Download der Heft-DVD des Sonderhefts LinuxWelt XXL 1/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 8 GB Kapazität geeignet sowie für reguläre DVD-Rs (4,7 GB). Dabei startet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
-
+Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts Linux XXL 1/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
 Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
 
