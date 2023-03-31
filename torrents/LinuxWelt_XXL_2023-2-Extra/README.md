@@ -1,2 +1,2 @@
 
-Noch etwas Geduld. Inhalte folgen.
+Bitte noch etwas Geduld. Inhalte folgen.
