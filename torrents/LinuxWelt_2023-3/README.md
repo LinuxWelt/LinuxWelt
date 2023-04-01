@@ -23,7 +23,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
     
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2023-3.iso](https://torrent.code2decode.com/LinuxWelt_2023-3/LinuxWelt_2023-3.iso), (Grösse: 7,9 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2022-3/LinuxWelt_2022-3.iso)
+Image-Datei: [LinuxWelt_2023-3.iso](https://torrent.code2decode.com/LinuxWelt_2023-3/LinuxWelt_2023-3.iso), (Grösse: 7,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2022-3/LinuxWelt_2022-3.iso)
 
 Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
