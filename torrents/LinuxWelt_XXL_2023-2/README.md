@@ -8,10 +8,10 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts Linux XXL
 Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
 
 ## 💻 Systeme:
-    1. Gparted Live 1.5.0-1 (64 Bit)
-    2. Rescuezilla 2.4.2 (64 Bit)
-    3. System Rescue 10 (64 Bit)
-    4. Wifislax 3.3 (64 Bit)
+    1. Linux Mint 21.1 Cinnamon (64 Bit)
+    2. Elementarty OS 7 (64 Bit)
+    3. Garuda Linux KDE Light (64 Bit)
+    4. LinuxWelt Rettungssystem 9.4 (64 Bit)
 
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
