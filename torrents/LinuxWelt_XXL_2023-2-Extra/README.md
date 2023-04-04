@@ -18,7 +18,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
     2. Memtest86+ 6.10 (BIOS und UEFI)
     3. Plop Boot Manager 6 (Nur BIOS)
     4. Hardware Detection Tool 0.5.2 (Nur BIOS)
-    6. Netboot.xyz 2.0.67 (BIOS und UEFI)
+    5. Netboot.xyz 2.0.67 (BIOS und UEFI)
 
 ## 📥 Download:
 
