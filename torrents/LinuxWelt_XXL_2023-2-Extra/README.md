@@ -24,6 +24,8 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 
 Die Download-Links folgen in Kürze! Bitte noch etwas Geduld.
 
+SHA256-Checksumme: 66d4f806748789f881011742337e38529ea50aca27de5a302e229d950302f099
+
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
