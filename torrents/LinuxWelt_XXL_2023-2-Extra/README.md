@@ -22,7 +22,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 
 ## 📥 Download:
 
-Die Download-Links folgen in Kürze! Bitte noch etwas Geduld.
+Image-Datei: [LinuxWelt_XXL_2023-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2023-2/LinuxWelt_XXL_2023-2.iso), (Grösse: 4,4 GB)
 
 SHA256-Checksumme: 90578ab280a907527a779498d71a98a4f5e26aa37aa538632f3ae054c02b73ea
 
