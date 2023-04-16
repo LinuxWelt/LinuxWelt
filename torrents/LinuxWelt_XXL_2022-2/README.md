@@ -31,12 +31,14 @@ SHA256 Checksumme: 45275161d6f7543888ce0be076afff80ed7980fd443297633db38bb6b890b
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.torrent?raw=true) 
+Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.torrent?raw=true).
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
 magnet:?xt=urn:btih:9ccf55498cf8032298d46a87c597fa35e8818456&dn=LinuxWelt_XXL_2022-2&xl=8387491931&tr=http%3A%2F%2Ffosstorrents.com%3A6969%2Fannounce&tr=http%3A%2F%2Fbtracker.top%3A11451%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Frun.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce
 ```
+
+Ein Klick auf das Kopieren-Symbol (<img style="position: relative; top: 7px;" src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/copypaste_icon.png" width="22px">) ganz rechts, das beim Darüberfahren dieser Adresslzeile mit der Maus erscheint, kopiert den Magnet-Link in die Zwischenablage.
 
 ## 🆓 Lizenzen
 Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
