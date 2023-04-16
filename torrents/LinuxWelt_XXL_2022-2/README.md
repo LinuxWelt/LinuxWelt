@@ -5,7 +5,7 @@ Auf dieser Seite findet sich in Kder Download der kompletten Heft-DVD des Sonder
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_2023-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.iso), (Grösse: 7,9 GB)
+Image-Datei: [LinuxWelt_XXL_2022-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.iso), (Grösse: 7,9 GB)
 
 SHA256 Checksumme: 45275161d6f7543888ce0be076afff80ed7980fd443297633db38bb6b890bcad
 
