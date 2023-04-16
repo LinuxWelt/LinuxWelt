@@ -4,13 +4,11 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts Linux XXL
 
 Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
 
-
 ## 💻 Systeme:
     1. Ubuntu 22.04.1 (64 Bit)
     2. KDE Neon User Edition 2022-11 (64 Bit)
     3. Xubuntu Core 22.10 (64 Bit)
     4. LinuxWelt Rettungssystem 9.1 - Stand Novemver 2022 (64 Bit)
-
 
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2
@@ -19,7 +17,6 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
     4. Hardware Detection Tool 0.5.2
     5. Plop Boot Manager 6.0
     6. Netboot.xyz	2.0.62
-
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL-2023-1_menu.png" width="70%">
@@ -35,7 +32,6 @@ SHA256 Checksumme: 4706497f341a5616992599f802dbda6a3141707bb406573074a770948db26
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2023-1/LinuxWelt_XXL_2023-1.torrent?raw=true) ([Magnet Link](https://tinyurl.com/lw-xxl-1-23 "Magnet Link")). Der Magnet-Link findet sich hier auch für Copy & Paste.
-
 
 ### 🧲 Magnet-Link des Bittorrent-Downloads:
 ```
