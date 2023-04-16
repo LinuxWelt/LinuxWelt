@@ -4,6 +4,21 @@ Auf dieser Seite findet sich in Kder Download der kompletten Heft-DVD des Sonder
 
 Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
+## 💻 Systeme:
+    1. Linux Mint 20.3 (64 Bit)
+    2. Elementary OS 6.1 (64 Bit)
+    3. KDE Neon User Edition 2022-03-17 (64 Bit)
+    4. LinuxWelt Rettungssystem 8.4.1 (64 Bit)
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2
+    2. Shred OS 2021.08.2
+    3. Memtest86+ 5.31b
+    4. Hardware Detection Tool 0.5.2
+    5. Netboot.xyz 2.0.57 
+    6. Plop Boot Manager 6
+    7. Plop Kexec 1.6
+
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-2_menu.png" width="70%">
 
