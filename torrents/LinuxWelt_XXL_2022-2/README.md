@@ -2,6 +2,9 @@
 
 Auf dieser Seite findet sich in Kder Download der kompletten Heft-DVD des Sonderhefts Linux XXL 2/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
+## 🖼️ Screenshot Bootmenü:
+<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-2_menu.png" width="70%">
+
 Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält folgende Systeme beziehungsweise bootfähige Utilities.
 
 ## 💻 Systeme:
@@ -18,10 +21,6 @@ Die Multiboot-DVD präsentiert ein Bootmenü, basiert auf Grub 2.06 und enthält
     5. Netboot.xyz 2.0.57 
     6. Plop Boot Manager 6
     7. Plop Kexec 1.6
-
-## 🖼️ Screenshot Bootmenü:
-<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2022-2_menu.png" width="70%">
-
 
 ## 📥 Download:
 
