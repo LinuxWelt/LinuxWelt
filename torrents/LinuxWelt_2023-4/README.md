@@ -23,7 +23,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
     
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2023-3.iso](https://torrent.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso), (Grösse: 7,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso)
+Image-Datei: [LinuxWelt_2023-4.iso](https://torrent.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso), (Grösse: 7,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso)
 
 Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
@@ -32,7 +32,7 @@ SHA256 Checksumme: 984b92d0732d4b31384acf85f18a7834b1c27461ce687d8a42bab82aa29ed
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2023-4/LinuxWelt_2023-4.torrent?raw=true) ([Magnet Link](https://tinyurl.com/lw-233dvd "Magnet Link")).
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_2023-4/LinuxWelt_2023-4.torrent?raw=true) ([Magnet Link](https://tinyurl.com/lw-234dvd "Magnet Link")).
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
