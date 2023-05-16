@@ -8,10 +8,11 @@ Hier findet sich in Kürze (Ende Mai 2023) der Download der Heft-DVD aus dem Lin
 Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities.
 
 ## 💻 Systeme:
-    1. Ubuntu Unity 22.04.2 (64 Bit)
-    2. Endeavour OS 22.12 (64 Bit)
-    3. Watt OS R12 (64 Bit)
-    4. Slax 15 (64 Bit)
+    1. Ubuntu 23.04 (64 Bit)
+    2. Xubuntu Core 23.04 LinuxWelt-Edition (64 Bit)
+    3. Fedora Linux 38 Installer (64 Bit)
+    4. Linux Lite 6.4 (64 Bit)
+    5. Ubuntu 23.04 Net-Installer (64 Bit) - nur als ISO-Datei
 
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
@@ -24,8 +25,6 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 ## 📥 Download:
 
 Image-Datei: [LinuxWelt_2023-4.iso](https://torrent.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso), (Grösse: 7,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-4/LinuxWelt_2023-4.iso)
-
-Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
 SHA256 Checksumme: 2c5f4f759d9a7528822b60eaae4de6c859073d198dff6a1f3780b6858792b5c7
 
