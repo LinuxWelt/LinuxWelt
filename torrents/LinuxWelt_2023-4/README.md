@@ -16,9 +16,9 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 ## 🛠️ Utilities:
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
-    2. Memtest86+ 6.0 (BIOS und UEFI)
+    2. Memtest86+ 6.1 (BIOS und UEFI)
     3. Shred OS 2021.08.2 (BIOS und UEFI)
-    4. Netboot.xyz 2.0.65 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.67 (BIOS und UEFI)
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
     
