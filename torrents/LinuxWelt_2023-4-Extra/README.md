@@ -2,6 +2,22 @@
 
 Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-3 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Alle Live-Systeme starten ebenfalls im BIOS- oder UEFI-Modus.
 
+Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities.
+
+## 💻 Systeme:
+    1. Fedora 38 Security Lab (64 Bit)
+    2. MX Linux 21.3 Workbench (64-Bit)
+    3. Gparted Live 1.5.0-1 (64 Bit)
+    4. Super Grub Disk 2.06s1 Beta (64 Bit)
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.10 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.67 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-4-Extra.png" width="70%">
 
 ## 📥 Download:
