@@ -7,7 +7,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 # 💽 Liste der ISO-Dateien (für USB-Sticks geeignet)
 
 ## 📥 LinuxWelt Heft-DVDs und Extra-DVDs
-- [LinuxWelt_2023-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4-Extras)
+- [LinuxWelt_2023-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4-Extra)
 - [LinuxWelt_2023-4](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4)
 - [LinuxWelt_2023-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-3-Extras)
 - [LinuxWelt_2023-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-3)
