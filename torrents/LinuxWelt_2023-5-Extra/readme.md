@@ -1,4 +1,4 @@
-![grafik](https://github.com/LinuxWelt/LinuxWelt/assets/96166508/2071bdb7-43e1-4d6c-a9b3-db79333a85b8)![grafik](https://github.com/LinuxWelt/LinuxWelt/assets/96166508/76e7cc9a-11e2-4743-b977-a2c2e661c035)# 💽 LinuxWelt 2023-5 Extra-Image
+💽 LinuxWelt 2023-5 Extra-Image
 
 Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-5 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Alle Live-Systeme starten ebenfalls im BIOS- oder UEFI-Modus.
 
