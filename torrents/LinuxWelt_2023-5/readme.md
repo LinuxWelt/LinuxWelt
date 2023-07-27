@@ -9,8 +9,8 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 ## 💻 Systeme:
     1. Debian 12 Net-Installer
-    2. Linux Mint	21.2
-    3. Open Suse Leap 15.5
+    2. Linux Mint 21.2 Cinnamon
+    3. Open Suse Leap 15.5 KDE
     4. MX Linux	23 Xfce
     5. Alma Linux 9.2 Gnome
 
