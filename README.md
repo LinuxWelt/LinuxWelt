@@ -4,9 +4,9 @@ Dies ist der offizielle Github-Account der Redaktion LinuxWelt.
 
 Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs bis zurück zur LinuxWelt 2022-1 als ISO-Datei über Bittorrent und seit September 2022 auch als direkter Download (HTTP) von den Servern der Redaktion.
 
-# 💽 Liste der ISO-Dateien (für USB-Sticks geeignet)
+# 💽 Liste der ISO-Dateien 
 
-## 📥 LinuxWelt Heft-DVDs und Extra-DVDs
+## 📥 LinuxWelt Heft-DVDs und Extra-DVDs (für USB-Sticks geeignet)
 - [LinuxWelt_2023-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-5-Extra)
 - [LinuxWelt_2023-5](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-5)
 - [LinuxWelt_2023-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4-Extra)
