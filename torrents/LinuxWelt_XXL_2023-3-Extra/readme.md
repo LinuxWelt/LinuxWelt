@@ -8,7 +8,7 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die dazu benötigte Torrent-Datei findet sich [hier](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_XXL_2023-3/LinuxWelt_XXL_2023-3.torrent). Der Magnet-Link findet sich auch hier für Copy & Paste:
+Die dazu benötigte Torrent-Datei findet sich [hier](https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/torrents/LinuxWelt_XXL_2023-3-Extra/LinuxWelt_XXL_Extra_2023-3.torrent). Der Magnet-Link findet sich auch hier für Copy & Paste:
 
 ### 🧲 Magnet-Link für den Bittorrent-Download:
 ```
