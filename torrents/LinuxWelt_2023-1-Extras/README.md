@@ -21,7 +21,7 @@ Die DVD und das Bootmenü enthält folgende Live-Systeme beziehungsweise bootfä
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2023-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-1-Extra/LinuxWelt_2023-1-Extra.iso), 4,48 GB
+Image-Datei: [LinuxWelt_2023-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-1-Extra/LinuxWelt_2023-1-Extra.iso), 4,43 GB
 
 SHA256 Checksumme: cedf01dfb60190be47b2b3de45ee59d61bc9138119d39cf011715f1be6894228
 
