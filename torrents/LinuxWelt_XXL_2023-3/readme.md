@@ -1,4 +1,4 @@
-![grafik](https://github.com/LinuxWelt/LinuxWelt/assets/96166508/85ba2064-62dd-4ad1-ace2-bb0f0b6954dc)# 💽 Sonderheft LinuxWelt 3/23 Heft-DVD
+# 💽 Sonderheft LinuxWelt 3/23 Heft-DVD
 
 Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt 2/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
