@@ -1,9 +1,25 @@
-# 💽 Sonderheft LinuxWelt 3/23 Heft-DVD
+![grafik](https://github.com/LinuxWelt/LinuxWelt/assets/96166508/85ba2064-62dd-4ad1-ace2-bb0f0b6954dc)# 💽 Sonderheft LinuxWelt 3/23 Heft-DVD
 
 Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt 2/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2023-3-menu.png" width="70%">
+
+Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities.
+
+## 💻 Systeme:
+    1. Ubuntu 22.04.2 - LinuxWelt-Edition mit Firefox als DEB-Paket
+    2. Knoppix 9.3 - Minimal-Edition
+    3. Gparted Live 1.5.0-1
+
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.10 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.67 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
