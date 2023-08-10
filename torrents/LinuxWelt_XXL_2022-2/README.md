@@ -31,7 +31,8 @@ SHA256 Checksumme: 45275161d6f7543888ce0be076afff80ed7980fd443297633db38bb6b890b
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/blob/main/torrents/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.torrent?raw=true).
+Die dazu benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_XXL_2022-2/LinuxWelt_XXL_2022-2.torrent) - **Link aktualisiert am 10.08.23**.
+
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
