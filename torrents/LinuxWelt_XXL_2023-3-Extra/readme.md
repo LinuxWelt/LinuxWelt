@@ -2,6 +2,13 @@
 
 Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt 2/23 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
+## 📥 Download:
+
+Image-Datei: [LinuxWelt_XXL_2023-3-Extra](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2023-3/LinuxWelt_XXL_Extra_2023-3.iso), (Grösse: 4,33 GB)
+
+SHA256-Checksumme: 937eb681191d0ce4253a20a5bdbc055e67841389053dcbf58e1e9418712e0a29
+
+
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2023-3-Extra.png" width="70%">
 
