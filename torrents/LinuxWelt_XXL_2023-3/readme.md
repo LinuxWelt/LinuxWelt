@@ -4,7 +4,7 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_XXL_2023-3-Extra](https://torrent.code2decode.com/LinuxWelt_XXL_2023-3/LinuxWelt_XXL_2023-3.iso), (Grösse: 7,81 GB)
+Image-Datei: [LinuxWelt_XXL_2023-3.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2023-3/LinuxWelt_XXL_2023-3.iso), (Grösse: 7,81 GB)
 
 SHA256-Checksumme: c14b898adf1ad585a38322f99fe00061af8c6ee2ce6f775c386bf95b00d38618
 
