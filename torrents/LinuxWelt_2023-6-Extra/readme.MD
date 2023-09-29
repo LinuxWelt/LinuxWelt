@@ -8,10 +8,14 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-6 als ISO
 ## 📥 Download:
 
 Image-Datei: [LinuxWelt_2023-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-6-Extra/LinuxWelt_2023-6-Extra.iso), (Grösse: 3,5 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-6-Extra/LinuxWelt_2023-6-Extra.iso).
-
 Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
 SHA256 Checksumme: 5946c2f6a3743a404175a9f464cf0b735ee5fe03010fede1d02eb58b17c25e80
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2023-6-Extra/LinuxWelt_2023-6-Extra.torrent). Es gibt auch wieder einen [Magnet Link](https://tinyurl.com/lw623extra "Magnet Link") direkt für Bittorrent-Clients.
 
 Ein Klick auf das Kopieren-Symbol (<img style="position: relative; top: 7px;" src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/copypaste_icon.png" width="22px">) ganz rechts, das beim Darüberfahren dieser Adresslzeile mit der Maus erscheint, kopiert den Magnet-Link in die Zwischenablage. 
 
