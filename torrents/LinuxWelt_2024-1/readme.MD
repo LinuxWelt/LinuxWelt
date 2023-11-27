@@ -23,7 +23,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 ## 📥 Download:
 
-In Kürze online.
+Image-Datei: [LinuxWelt_2024-1.iso](https://torrent.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso), (Grösse: 7,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso).
 
 SHA256 Checksumme: eaaf44b83841cb41cdab70289bdb8ad3ea8a15205b02bb59bf4ca3e6ae41e9e2
 
