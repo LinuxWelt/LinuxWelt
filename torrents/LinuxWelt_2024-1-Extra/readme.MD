@@ -6,10 +6,9 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-2 als ISO
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1-Extra_menu.png" width="70%">
 
 
-
 ## 📥 Download:
 
-In Kürze online.
+Image-Datei: [LinuxWelt_2024-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-1-Extra/LinuxWelt_2024-1-Extra.iso), (Grösse: 4,13 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2024-1-Extra/LinuxWelt_2024-1-Extra.iso).
 
 SHA256 Checksumme: a6fe78104627620d7176b63082691588d636e10f71132e81b0e465b4ad45fff6
 
