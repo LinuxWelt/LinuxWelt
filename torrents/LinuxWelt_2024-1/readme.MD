@@ -21,6 +21,16 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
+## 📥 Download:
+
+In Kürze online.
+
+SHA256 Checksumme: eaaf44b83841cb41cdab70289bdb8ad3ea8a15205b02bb59bf4ca3e6ae41e9e2
+
+## 🔗 Bittorrent:
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2024-1/LinuxWelt_2024-1.torrent)
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
