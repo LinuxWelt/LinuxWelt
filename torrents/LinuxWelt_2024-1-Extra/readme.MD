@@ -5,6 +5,18 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-2 als ISO
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1-Extra_menu.png" width="70%">
 
+## 💻 Systeme:
+    1. Xubuntu Minimal 23.10 mit Firefox als DEB.
+    2. Lubuntu 23.10 mit Firefox als DEB.
+   
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.20 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.70 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## 📥 Download:
 
