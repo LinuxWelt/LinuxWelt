@@ -5,6 +5,12 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-2 als ISO
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1-Extra_menu.png" width="70%">
 
+
+
+## 📥 Download:
+
+In Kürze online.
+
 SHA256 Checksumme: a6fe78104627620d7176b63082691588d636e10f71132e81b0e465b4ad45fff6
 
 ## 🔗 Bittorrent:
