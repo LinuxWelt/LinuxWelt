@@ -3,7 +3,7 @@
 Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts der LinuxWelt 1/24 XXL als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität geeignet Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Bitte beachten Sie, dass diese Download-Version der ISO-Datei kein LinuxWelt-Ebook als PDF enthält.
 
 ## 🖼️ Screenshot Bootmenü:
-<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2024-1-menu.png" width="70%">
+<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2024-1_menu.png" width="70%">
 
 Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities.
 
