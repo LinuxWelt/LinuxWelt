@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2024-1 Extra-Image
 
-Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-2 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Im Image enthalten sind zwei aktuelle Ubuntu-Varianten, Xubuntu Minimal 23.10 und Lubuntu 23.10, mit jeweils Firefox als natives DEB-Paket. Der Browser ist aus dem PPA https://launchpad.net/~mozillateam/+archive/ubuntu/ppa vorinstalliert
+Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-2 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Im Image enthalten sind zwei aktuelle Ubuntu-Varianten, Xubuntu Minimal 23.10 und Lubuntu 23.10, mit jeweils Firefox als natives DEB-Paket. Der Browser ist aus dem PPA https://launchpad.net/~mozillateam/+archive/ubuntu/ppa vorinstalliert und per "apt-pinning" fixiert.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1-Extra_menu.png" width="70%">
