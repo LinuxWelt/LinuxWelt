@@ -5,6 +5,23 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-6 als ISO
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-6-menu-extra.png" width="70%">
 
+## 💻 Systeme:
+    1. Knoppix 9.3 Minimal
+    2. Systemrescue 10
+    3. LinuxWelt Rettungssystem 9.4.1
+    4. Gparted Live 1.5.0
+    5. Fatdog 900
+    6. Clonezilla Live 3.1
+
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.1 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.67 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 📥 Download:
 
 Image-Datei: [LinuxWelt_2023-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-6-Extra/LinuxWelt_2023-6-Extra.iso), (Grösse: 3,5 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-6-Extra/LinuxWelt_2023-6-Extra.iso).
