@@ -5,6 +5,21 @@ Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2023-6 als 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-6_menu.png" width="70%">
 
+Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities. In dieser Ausgabe befindet sich das Rettungs 9.4.1 auf dem [Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-6-Extra).
+
+## 💻 Systeme:
+    1. Backbox 8 (64 Bit)
+    2. MX Workbench	23 (64 Bit)
+    3. Parrot Home 5.3 (64 Bit)
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.10 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.67 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 📥 Download:
 
 Image-Datei: [LinuxWelt_2023-6.iso](https://torrent.code2decode.com/LinuxWelt_2023-6/LinuxWelt_2023-6.iso), (Grösse: 7,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-6/LinuxWelt_2023-6.iso).
