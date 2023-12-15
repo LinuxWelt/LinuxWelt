@@ -26,7 +26,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 ## 📥 Download:
 Die Links zum Herunterladen folgen nach Auslieferung des Heftes.
 
-SHA256-Checksumme: 09cee936011f2f97cb44ee36e478505452d015d59b0451250b3a2b8a7d2fa57a
+SHA256-Checksumme: f2fe4b9458ae04d30668328fef0ac8cf09430b0e5ed29f5c71f5dee8a9b0c2cb
 
 
 ## 🔗 Bittorrent:
@@ -34,7 +34,7 @@ Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Pr
 
 ### 🧲 Magnet-Link für den Bittorrent-Download:
 ```
-magnet:?xt=urn:btih:ab2379b79f23a449ead38b059bbe8a94b0f8fba2&dn=LinuxWelt_XXL_2024-1&xl=8376109147&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ft.acg.rip%3A6699%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.lilithraws.cf%3A443%2Fannounce&tr=udp%3A%2F%2Ffree.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.loligirl.cn%3A443%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew-line.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fsanincode.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce
+Wird aaktualisiert, bitte einen Moment Geduld.
 ```
 
 ## 🆓 Lizenzen
