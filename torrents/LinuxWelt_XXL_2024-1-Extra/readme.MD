@@ -7,7 +7,7 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt
 
 ## 📥 Download:
 
-Die Download-Links folgen an dieser Stelle nach Auslieferung des Heftes.
+Der Links zum Herunterladen per HTTP folgt in Kürze.
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
