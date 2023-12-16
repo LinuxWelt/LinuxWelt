@@ -7,7 +7,8 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt
 
 ## 📥 Download:
 
-Der Links zum Herunterladen per HTTP folgt in Kürze. [Magnet-Link](https://m6u.de/XXL124Extra)
+Image-Datei: [LinuxWelt_XXL_2024-1-Extra](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso), (Grösse: 4,25 GB)
+[Magnet-Link](https://m6u.de/XXL124Extra)
 
 SHA256-Checksumme: a6fe78104627620d7176b63082691588d636e10f71132e81b0e465b4ad45fff6
 
