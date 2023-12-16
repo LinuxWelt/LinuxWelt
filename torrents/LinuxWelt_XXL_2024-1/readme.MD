@@ -24,7 +24,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## 📥 Download:
-Der Links zum Herunterladen per HTTP folgt in Kürze.
+Der Links zum Herunterladen per HTTP folgt in Kürze. [Magnet-Link](https://m6u.de/XXL124DVD)
 
 SHA256-Checksumme: f2fe4b9458ae04d30668328fef0ac8cf09430b0e5ed29f5c71f5dee8a9b0c2cb
 
