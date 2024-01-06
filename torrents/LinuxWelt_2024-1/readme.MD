@@ -4,6 +4,8 @@ Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2024-1 als 
 
 [<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="33%" align="center">](https://torrent.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso)
 
+Weitere Optionen, etwas per Bittorrent und Mirror-Server finden sich unten.
+
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1_menu.png" width="70%">
