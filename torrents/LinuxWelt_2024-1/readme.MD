@@ -1,9 +1,8 @@
 # 💽 LinuxWelt 2024-1 Heft-DVD
 
 Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2024-1 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 16 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Die DVD und das Bootmenü enthält folgende Systeme beziehungsweise bootfähige Utilities. Bitte beachten Sie, dass diese Download-Version der ISO-Datei kein LinuxWelt-Ebook und keine LinuxWelt-Ausgaben als PDFs enthält.
-<p align="center">
-[<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="50%" align="center">](https://torrent.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso)
-</p>
+[<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="20%" align="center">](https://torrent.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso)
+
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-1_menu.png" width="70%">
