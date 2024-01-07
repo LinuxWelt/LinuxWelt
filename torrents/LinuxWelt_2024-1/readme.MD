@@ -26,7 +26,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
-## 📥 Alle Downloads:
+## 📥 Downloads: Alle Möglichkeit
 
 Image-Datei: [LinuxWelt_2024-1.iso](https://torrent.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso), (Grösse: 7,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2024-1/LinuxWelt_2024-1.iso).
 
