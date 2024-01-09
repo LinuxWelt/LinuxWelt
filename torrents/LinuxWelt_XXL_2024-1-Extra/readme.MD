@@ -7,10 +7,10 @@ Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt
 
 ## 📥 Download:
 
-[LinuxWelt_XXL_2024-1-Extra](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_2024-1-Extra.iso), (Grösse: 4,25 GB)
+[LinuxWelt_XXL_Extra_2024-1.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso), (Grösse: 4,25 GB)
 [Magnet-Link](https://m6u.de/XXL124Extra)
 
-SHA256-Checksumme: a6fe78104627620d7176b63082691588d636e10f71132e81b0e465b4ad45fff6
+SHA256-Checksumme: 48890f70c684e4b451343fa2ebcfd2386bff8166c69c082e816acdc628c46e53
 
 
 ## 🔗 Bittorrent:
@@ -18,7 +18,7 @@ Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Pr
 
 ### 🧲 Magnet-Link für den Bittorrent-Download:
 ```
-magnet:?xt=urn:btih:15e59f142210750809be50f62cb5512d8509cac7&dn=LinuxWelt_XXL_Extra_2024-1&xl=4473528413&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ft.acg.rip%3A6699%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.lilithraws.cf%3A443%2Fannounce&tr=udp%3A%2F%2Ffree.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.loligirl.cn%3A443%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew-line.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fsanincode.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce
+magnet:?xt=urn:btih:624266622dd8f36a1b3c9df958db6ef5acd13ee2&dn=LinuxWelt_XXL_Extra_2024-1&xl=4354977889&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ft.acg.rip%3A6699%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=udp%3A%2F%2Fmovies.zsw.ca%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.lilithraws.cf%3A443%2Fannounce&tr=udp%3A%2F%2Ffree.publictracker.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftr.burnabyhighstar.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.loligirl.cn%3A443%2Fannounce&tr=udp%3A%2F%2Faarsen.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew-line.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fsanincode.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce
 ```
 
 ## 🆓 Lizenzen
