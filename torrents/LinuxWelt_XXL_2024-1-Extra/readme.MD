@@ -2,7 +2,7 @@
 
 Auf dieser Seite findet sich der Download des Extra-Image zum Sonderheft XXL 1/24 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 8 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
-[<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="25%">](ttps://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso)]
+[<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="25%">](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso)
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2024-1-Extra_menu.png" width="70%">
