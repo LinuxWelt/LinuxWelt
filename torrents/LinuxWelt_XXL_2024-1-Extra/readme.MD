@@ -1,14 +1,16 @@
 # 💽 Sonderheft Linux XXL 1/24 Extra-Image
 
-Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts LinuxWelt 1/24 XXL als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
+Auf dieser Seite findet sich der Download des Extra-Image zum Sonderheft XXL 1/24 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 8 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
+
+[<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/download_01.png" width="25%">](ttps://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso)
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2024-1-Extra_menu.png" width="70%">
 
-## 📥 Download:
+## 📥 Download: Alle Möglichkeiten und Mirrors
 
 [LinuxWelt_XXL_Extra_2024-1.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso), (Grösse: 4,25 GB)
-[Magnet-Link](https://m6u.de/XXL124Extra)
+[Magnet-Link](https://m6u.de/XXL124Extra) [Mirror](https://torrent3.code2decode.com/LinuxWelt_XXL_Extra_2024-1/LinuxWelt_XXL_Extra_2024-1.iso)
 
 SHA256-Checksumme: 48890f70c684e4b451343fa2ebcfd2386bff8166c69c082e816acdc628c46e53
 
