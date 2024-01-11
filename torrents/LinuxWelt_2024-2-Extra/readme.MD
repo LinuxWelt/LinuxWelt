@@ -4,3 +4,5 @@ Hier findet sich zum Verkaufsstart der LinuxWelt 2024-02 der Download der Extra-
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="80%">
+
+SHA256-Checksumme: 0138a109bacc150671caeabe39950f47033ab6da0a96caf08e036af432b6e174
