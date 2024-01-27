@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2024-2 Extra-Image
 
-Hier findet sich zum Verkaufsstart der LinuxWelt 2024-02 der Download der Extra-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
+Hier findet sich zur LinuxWelt 2024-02 der Download der Extra-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="70%">
@@ -22,8 +22,15 @@ Hier findet sich zum Verkaufsstart der LinuxWelt 2024-02 der Download der Extra-
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
+## 📥 Download:
+
+Image-Datei: [LinuxWelt_2024-2-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-2-Extra/LinuxWelt_2024-2-Extra.iso), (Grösse: 4,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2024-2-Extra/LinuxWelt_2024-2-Extra.iso).
+
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2024-2-Extra/LinuxWelt_2024-2-Extra.torrent) ([Magnet Link](https://m6u.de/LWDVD232X "Magnet Link")).
 
 ### 🧲 Magnet-Link für den Bittorrent-Download:
 ```
