@@ -3,7 +3,7 @@
 Hier findet sich zum Verkaufsstart der LinuxWelt 2024-02 der Download der Extra-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,7 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
 ## 🖼️ Screenshot Bootmenü:
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="70%>
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="70%">
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
