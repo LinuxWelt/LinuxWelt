@@ -5,6 +5,23 @@ Hier findet sich zum Verkaufsstart der LinuxWelt 2024-02 der Download der Extra-
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="70%">
 
+## 💻 Systeme:
+    1. Mini OS 3.3.3 Standard-Edition (64 Bit)
+    2. Systemrescue 10.02 (64 Bit)
+    3. Nemesis Linux 23.09 (64 Bit)
+    4. Lxpupsc64 23.01-4 (64 Bit)
+    5. PorteuX 0.9 (64 Bit)
+    6. Gparted Live 1.5.0-6 (64 Bit)
+    7. Clonezilla 3.1.1 (64 Bit)
+
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.20 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.70 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
