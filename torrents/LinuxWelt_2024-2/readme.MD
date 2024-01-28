@@ -1,12 +1,30 @@
 # 💽 LinuxWelt 2024-2 Heft-DVD
 
-Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2024-2 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 16 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
+Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2024-2 als ISO-Datei. Die Datei liegt als direkter Download vor, von eigenen Servern der LinuxWelt-Redaktion. Aber auch als Bittorrent-Download, als offizieller Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf USB-Sticks geeignet (ab 16 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12rc1 im BIOS- sowie UEFI-Modus.
 
-Alle Inhalte folgen demnächst zum Verkaufsstart der LinuxWelt 2024-02. Bitte noch etwas Geduld.
+## 🖼️ Screenshot Bootmenü:
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2_menu.png" width="70%">
+
+## 💻 Systeme:
+    1. Linux Mint 21.3 Cinnamon (64 Bit)
+    2. Pop OS 22.04 (64 Bit)
+    3. Sparky Linux 7.2 Mate (64 Bit)
+    4. Antix 23 (64 Bit)
+   
+## 🛠️ Utilities:
+    1. Super Grub Disk 2.04s2 (BIOS und UEFI)
+    2. Memtest86+ 6.20 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.70 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
+## 📥 Download:
 
 ## 🔗 Bittorrent:
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2024-2/LinuxWelt_2024-2.torrent) ([Magnet Link](https://m6u.de/LWDVD242 "Magnet Link")).
 
 ### 🧲 Magnet-Link für Copy & Paste:
 ```
