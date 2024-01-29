@@ -5,13 +5,13 @@ Hier findet sich der Download der Heft-DVD aus dem LinuxWelt Magazin 2024-2 als 
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2_menu.png" width="70%">
 
-## 💻 Systeme:
+## 💻 Systeme
     1. Linux Mint 21.3 Cinnamon (64 Bit)
     2. Pop OS 22.04 (64 Bit)
     3. Sparky Linux 7.2 Mate (64 Bit)
     4. Antix 23 (64 Bit)
    
-## 🛠️ Utilities:
+## 🛠️ Utilities
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
     2. Memtest86+ 6.20 (BIOS und UEFI)
     3. Shred OS 2021.08.2 (BIOS und UEFI)
