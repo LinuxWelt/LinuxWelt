@@ -5,7 +5,7 @@ Hier findet sich zur LinuxWelt 2024-02 der Download der Extra-DVD als ISO-Datei.
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-2-Extra.png" width="70%">
 
-## 💻 Systeme:
+## 💻 Systeme
     1. Mini OS 3.3.3 Standard-Edition (64 Bit)
     2. Systemrescue 10.02 (64 Bit)
     3. Nemesis Linux 23.09 (64 Bit)
@@ -14,7 +14,7 @@ Hier findet sich zur LinuxWelt 2024-02 der Download der Extra-DVD als ISO-Datei.
     6. Gparted Live 1.5.0-6 (64 Bit)
     7. Clonezilla 3.1.1 (64 Bit)
 
-## 🛠️ Utilities:
+## 🛠️ Utilities
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
     2. Memtest86+ 6.20 (BIOS und UEFI)
     3. Shred OS 2021.08.2 (BIOS und UEFI)
