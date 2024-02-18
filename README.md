@@ -13,7 +13,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
   💽 [LinuxWelt_2024-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-1)  
   ⌛ [LinuxWelt_2023-6-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-6-Extra) - vorübergehend offline  
   💽 [LinuxWelt_2023-6](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-6)  
-  ⌛ [LinuxWelt_2023-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-5-Extra)  - vorübergehend offline    
+  ⌛ [LinuxWelt_2023-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-5-Extra)      
   💽 [LinuxWelt_2023-5](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-5)  
   💽 [LinuxWelt_2023-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4-Extra)  
   💽 [LinuxWelt_2023-4](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2023-4)  
