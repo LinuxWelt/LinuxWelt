@@ -23,7 +23,7 @@ Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-6 als ISO
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2023-5-Extra-v2.iso](https://torrent.code2decode.com/LinuxWelt_2023-6-Extra-v2/LinuxWelt_2023-6-Extra-v2.iso), (Grösse: 3,6 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-6-Extra-v2/LinuxWelt_2023-6-Extra-v2.iso).
+Image-Datei: [LinuxWelt_2023-6-Extra-v2.iso](https://torrent.code2decode.com/LinuxWelt_2023-6-Extra-v2/LinuxWelt_2023-6-Extra-v2.iso), (Grösse: 3,6 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-6-Extra-v2/LinuxWelt_2023-6-Extra-v2.iso).
 Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
 SHA256 Checksumme: a2186daaeeaaba15c08484145366cac88c07cfe806c596a1c1c8f9faa11c133c
