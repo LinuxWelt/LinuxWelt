@@ -23,7 +23,10 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 ## 📥 Download:
 
-Das Image befindet sich gerade in einer Überarbeitung. Bitte noch etwas Geduld. In wenigen Stunden erscheint am 18.02.2024 eine neue Version.
+
+Image-Datei: [LinuxWelt_2023-4-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-5-Extra-v2/LinuxWelt_2023-5-Extra-v2.iso), (Grösse: 3,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2023-5-Extra-v2/LinuxWelt_2023-5-Extra-v2.iso)
+
+Im Falle einer Überlastung des primären Servers bitte den Link "Mirror" wählen.
 
 SHA256 Checksumme: 8c7d88b71294e263e4aac7283bb83e39e8151b5e5f3dbf965b7090c02abca954
 
