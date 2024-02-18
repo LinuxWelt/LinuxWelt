@@ -1,6 +1,6 @@
-# 💽 LinuxWelt 2023-6 Extra-Image Version2
+# 💽 LinuxWelt 2023-6 Extra-Image Version 2
 
-Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-6 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (3,5 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Alle Live-Systeme starten ebenfalls im BIOS- oder UEFI-Modus.
+Hier findet sich der Download der Extra-DVD zur LinuxWelt-Ausgabe 2023-6 als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (3,5 GB) sowie USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus. Alle Live-Systeme starten ebenfalls im BIOS- oder UEFI-Modus. Dieses Image hat im Februar 2024 eine Aktualisierung erhalten, um Fehler in den Booteinträgen für Knoppix 9.3 zu beheben.
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2023-6-menu-extra.png" width="70%">
