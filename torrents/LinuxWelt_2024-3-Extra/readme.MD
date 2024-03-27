@@ -6,7 +6,10 @@ Hier findet sich zur LinuxWelt 2024-3 der Download des Extra-Image als ISO-Datei
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-3-Extra.png" width="70%">
 
 ## 💻 Systeme
-
+    1. MX Workbench	23.3 (64 Bit)
+    2. GRML	2024.02 (64 Bit)
+    3. Zephix 7 LinuxWelt-Edition (64 Bit)
+    4. Damn Small Linux 2024 (64 Bit)
 
 ## 🛠️ Utilities
     1. Super Grub Disk 2.04s2 (BIOS und UEFI)
