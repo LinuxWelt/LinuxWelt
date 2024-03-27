@@ -6,14 +6,6 @@ Hier findet sich zur LinuxWelt 2024-3 der Download der Heft-DVD als ISO-Datei. E
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-3.png" width="70%">
 
 ## 💻 Systeme
-# 💽 LinuxWelt 2024-3 Heft-DVD
-
-Hier findet sich zur LinuxWelt 2024-3 der Download der Heft-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
-
-## 🖼️ Screenshot Bootmenü
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-3" width="70%">
-
-## 💻 Systeme
     1. Endeavour OS Galileo Neo (64 Bit)
     2. Rhino Linux 2023.4 (64 Bit)
     3. Bunsenlabs  "Boron" (64 Bit)
