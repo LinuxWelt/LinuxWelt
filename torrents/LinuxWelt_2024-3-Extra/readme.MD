@@ -18,3 +18,13 @@ Hier findet sich zur LinuxWelt 2024-3 der Download des Extra-Image als ISO-Datei
     4. Netboot.xyz 2.0.70 (BIOS und UEFI)
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
+
+## 📥 Download:
+
+Image-Datei: [LinuxWelt_2023-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2023-3-Extra/LinuxWelt_2023-3-Extra.iso), 4,09 GB
+
+SHA256 Checksumme: 9d57681197b31afd7d524ce172ae2039e5718fa6647462b5e1f5af8401bace00
+
+
+## 🆓 Lizenzen
+Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).)
