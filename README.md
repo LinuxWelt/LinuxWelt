@@ -7,8 +7,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 # 💽 Liste der ISO-Dateien 
 
 ## 📥 LinuxWelt Heft-DVDs und Extra-DVDs als ISO-Datei
-  ⌛ [LinuxWelt_2024-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3-Extra) - in Kürze verfügbar  
-  ⌛ [LinuxWelt_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3) - in Kürze verfügbar  
+  ⭐ [LinuxWelt_2024-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3-Extra) - das aktuelle Heft  
+  ⭐ [LinuxWelt_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3) - das aktuelle Heft  
   💽 [LinuxWelt_2024-2-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-2-Extra)   
   💽 [LinuxWelt_2024-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-2)  
   💽 [LinuxWelt_2024-1-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-1-Extra)  
