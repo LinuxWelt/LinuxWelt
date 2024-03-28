@@ -21,7 +21,7 @@ Hier findet sich zur LinuxWelt 2024-3 der Download der Heft-DVD als ISO-Datei. E
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2024-3.iso](https://torrent.code2decode.com/LinuxWelt_2024-3/LinuxWelt_2024-3.iso), 7,9 GB
+Image-Datei: [LinuxWelt_2024-3.iso](https://torrent.code2decode.com/LinuxWelt_2024-3/LinuxWelt_2024-3.iso), 7,9 GB. Update: [Schneller Mirror](https://torrent5.code2decode.com/LinuxWelt_2024-3/LinuxWelt_2024-3.iso).
 
 SHA256 Checksumme: a5569f13586b42ee67bf73f43eb5c327c0adf291d1f9cac89e9ebb62447f8ff7
 
