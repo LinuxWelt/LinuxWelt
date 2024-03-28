@@ -21,7 +21,7 @@ Hier findet sich zur LinuxWelt 2024-3 der Download des Extra-Image als ISO-Datei
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2024-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-3-Extra/LinuxWelt_2024-3-Extra.iso), 4,2 GB [Schneller Mirror](https://torrent5.code2decode.com/LinuxWelt_2024-3-Extra/LinuxWelt_2024-3-Extra.iso).
+Image-Datei: [LinuxWelt_2024-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-3-Extra/LinuxWelt_2024-3-Extra.iso), 4,2 GB. Update: [Schneller Mirror](https://torrent5.code2decode.com/LinuxWelt_2024-3-Extra/LinuxWelt_2024-3-Extra.iso).
 
 
 SHA256 Checksumme: 9d57681197b31afd7d524ce172ae2039e5718fa6647462b5e1f5af8401bace00
