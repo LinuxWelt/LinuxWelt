@@ -30,3 +30,6 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 SHA256-Checksumme: c498bb24b8619fb70f90a8174c8abc81d78c9a8b38457dc0b5c0a0e1db3fd077
 
+
+## 🆓 Lizenzen
+Das ISO-Image enhält nur Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
