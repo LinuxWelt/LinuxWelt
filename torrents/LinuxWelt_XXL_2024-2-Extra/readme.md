@@ -8,7 +8,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 ## 💻 Systeme:
     1. LinuxWelt Rettungssystem 10.0 (64 Bit)  
     2. Damn Small Linux 2024 (64 Bit)  
-    3. MiniOS Maximum	3.3.3, deutschsprachig (64 Bit)
+    3. MiniOS Maximum 3.3.3, deutschsprachig (64 Bit)
     4. Knoppix Mininimal 9.3 (64 Bit)  
     5. Puppex Linux	Jammy64 22.04 (64 Bit)  
     
