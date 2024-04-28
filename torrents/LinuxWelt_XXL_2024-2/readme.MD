@@ -1,4 +1,4 @@
-💽 Sonderheft Linux XXL 2/24 Heft-DVD 
+### 💽 Sonderheft Linux XXL 2/24 Heft-DVD 
 
 Auf dieser Seite findet sich in Kürze der Download der Heft-DVD des Sonderhefts Linux XXL 2/24 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität geeignet Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Das E-Book im PDF-Format ist in diesem Download übrigens nicht enthalten.
 
@@ -6,7 +6,7 @@ Das Multiboot-Image bietet in seinem Bootmenü folgende Systeme beziehungsweise 
 
 ## 💻 Systeme:
     1. Linux Mint Edge 21.3 (64 Bit)  
-    2. Zorin OS Core	17.1 (64 Bit)  
+    2. Zorin OS Core 17.1 (64 Bit)  
     3. Open Suse Leap KDE 15.6 (64 Bit)  
     4. Gparted Live 1.6 (64 Bit)  
     
