@@ -18,6 +18,11 @@ Das Multiboot-Image bietet in seinem Bootmenü folgende Systeme beziehungsweise 
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
+## 📥 Download: Checksumme und Mirror
+
+[LinuxWelt_XXL_2024-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_2024-2/LinuxWelt_XXL_2024-2.iso), (Grösse: 8,34 GB)
+[Mirror](https://torrent3.code2decode.com/LinuxWelt_XXL_2024-2/LinuxWelt_XXL_2024-2.iso)
+
 
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2024-2_menu.png" width="70%">
