@@ -7,7 +7,7 @@ Das Multiboot-Image bietet in seinem Bootmenü folgende Systeme beziehungsweise 
 ## 💻 Systeme:
     1. Linux Mint Edge 21.3 (64 Bit)  
     2. Zorin OS Core 17.1 (64 Bit)  
-    3. Open Suse Leap KDE 15.6 (64 Bit)  
+    3. Open Suse Leap KDE 15.6 RC1 (64 Bit)  
     4. Gparted Live 1.6 (64 Bit)  
     
 ## 🛠️ Utilities:
