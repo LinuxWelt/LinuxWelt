@@ -18,4 +18,10 @@ Hier findet sich zur LinuxWelt 2024-4 der Download der Heft-DVD als ISO-Datei. E
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-4_menu.png" width="70%">
 
+## 📥 Download:
+
+Image-Datei: [LinuxWelt_2024-4.iso](https://torrent.code2decode.com/LinuxWelt_2024-4/LinuxWelt_2024-4.iso), 8 GB.
+
+SHA256 Checksumme: c2460303eee7d977d438852e1b8f77dbbc72df481d6f3529f96a932d7e95434b
+
 
