@@ -1,1 +1,1 @@
-Inhelte folgen.
+Inhalte folgen.
