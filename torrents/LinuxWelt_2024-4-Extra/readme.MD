@@ -3,7 +3,7 @@
 Hier findet sich zur LinuxWelt 2024-4 der Download des Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
 ## 💻 Systeme
-    1. Wifislam64 3.4 (64 Bit)
+    1. Wifislax64 3.4 (64 Bit)
     2. Boot Repair Disk (64 Bit)
     3. Rescatux 0.74 (64 Bit)
     4. System Rescue 11.01 (64 Bit)
