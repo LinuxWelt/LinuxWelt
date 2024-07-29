@@ -5,7 +5,7 @@ Hier findet sich zur LinuxWelt 2024-5 der Download des Extra-Image als ISO-Datei
 ## 💻 Systeme (alle 64 Bit)
     1. MX Workbench 23.3
     2. Rescuzilla 2.5
-    3. Slax LinuxWelt-Edition	12.2 mit Firefox ESR
+    3. Slax 12.2 LinuxWelt-Edition mit Firefox ESR
     4. Gparted Live 1.6.0-4
 
 ## 🖼️ Screenshot Bootmenü
