@@ -7,6 +7,10 @@ Hier findet sich zur LinuxWelt 2024-5 der Download des Extra-Image als ISO-Datei
 
 ## 📥 Download
 
+Image-Datei: [LinuxWelt_2024-5-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-5-Extra/LinuxWelt_2024-5-Extra.iso), 4,3 GB. 
+
+SHA256 Checksumme: 642151e504be6060405ad83bcc7ce0ce6505f42c4768007869c3ecb910907265
+
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
