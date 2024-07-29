@@ -1,7 +1,20 @@
 # 💽 LinuxWelt 2024-5 Heft-DVD
 
-Hier findet sich in Kürze begleitend zum Veröffentlichungstermin der LinuxWelt 2024-5 die Heft-DVD als ISO-Datei zum freien Download. Die ISO-Datei ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Es ist der offizielle Download und Torrent der Redaktion. Bitte beachten Sie, dass sich das E-Book aufgrund von geltenden Urheberrechten auf Artikel nicht in diesem ISO-Image befindet.
+Hier findet sich begleitend zum Veröffentlichungstermin der LinuxWelt 2024-5 die Heft-DVD als ISO-Datei zum freien Download. Die ISO-Datei ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Es ist der offizielle Download und Torrent der Redaktion. Bitte beachten Sie: Das E-Book ist aufgrund von geltenden Urheberrechten auf Artikel nicht in diesem ISO-Image enthalten.
 
+## 💻 Systeme (alle 64 Bit)
+    1. Fedora 40
+    2. Open Suse Leap KDE Live 15.6
+    3. Xubuntu LinuxWelt-Edition 24.04 mit Firefox als DEB
+    4. Arch Linux Mate 5-2024 mit Calamares-Installer
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.0 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.79 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-5_menu.png" width="70%">
