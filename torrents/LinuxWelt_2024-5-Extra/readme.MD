@@ -4,3 +4,7 @@ Hier findet sich zur LinuxWelt 2024-5 der Download des Extra-Image als ISO-Datei
 
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-5_extra.png" width="70%">
+
+## 📥 Download:
+
+In Kürze verfügbar.
