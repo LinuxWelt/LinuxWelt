@@ -4,7 +4,7 @@ Hier findet sich in Kürze begleitend zum Veröffentlichungstermin der LinuxWelt
 
 
 ## 🖼️ Screenshot Bootmenü
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-menu.png" width="70%">
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-5_menu.png" width="70%">
 
 ## 📥 Download:
 
