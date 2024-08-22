@@ -2,6 +2,23 @@
 
 Auf dieser Seite findet sich in Kürze der Download der Heft-DVD des Sonderhefts "Retten und Reparieren" der LinuxWelt-Redaktion als ISO-Datei, direkt von unseren Servern und als Bittorrent. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität geeignet Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Das E-Book im PDF-Format ist in diesem Download übrigens nicht enthalten.
 
+Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Utilities.
+
+## 💻 Systeme
+    1. Rettungssystem 10.1 (64 Bit)
+    2. Kanotix "Slowfire" 2024 (64 Bit)
+    3. MX Workbench 23.3 (64 Bit)
+    4. Rescatux 0.74 (64 Bit)
+    5. Rescuezilla 2.5 (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.04b4 (BIOS und UEFI)
+    2. Memtest86+ 7.0 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.81 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ### 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/Sonderheft_rr_2024-3_menu.png" width="70%">
 
