@@ -20,9 +20,10 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 ### 🖼️ Screenshot Bootmenü
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/Sonderheft_rr_2024-3_extra.png" width="70%">
 
-## 📥 Download
+## 📥 Download: Checksumme und Mirror
 
-Link folgt in Kürze (30. August 2024).
+[LinuxWelt_SH-RR_Extra_2024-3.iso](https://torrent.code2decode.com/LinuxWelt_SH-RR_Extra_2024-3/LinuxWelt_XXL_Extra_2024-2.iso), (Grösse: 4,1 GB)
+[Mirror](https://torrent3.code2decode.com/LinuxWelt_SH-RR_Extra_2024-3/LinuxWelt_SH-RR_Extra_2024-3.iso)
 
 SHA256 Checksumme: 7eaa18b307b4c352a3e8f84a41de80babd5cf99569920e2a9d943e6f16e0f717
 
