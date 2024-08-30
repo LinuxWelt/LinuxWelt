@@ -22,7 +22,7 @@ Die DVD und das Bootmenü bieten folgende Systeme beziehungsweise bootfähige Ut
 
 ## 📥 Download: Checksumme und Mirror
 
-[LinuxWelt_SH-RR_Extra_2024-3.iso](https://torrent.code2decode.com/LinuxWelt_SH-RR_Extra_2024-3/LinuxWelt_XXL_Extra_2024-2.iso), (Grösse: 4,1 GB)
+[LinuxWelt_SH-RR_Extra_2024-3.iso](https://torrent.code2decode.com/LinuxWelt_SH-RR_Extra_2024-3/LinuxWelt_SH-RR_Extra_2024-3.iso), (Grösse: 4,1 GB)
 [Mirror](https://torrent3.code2decode.com/LinuxWelt_SH-RR_Extra_2024-3/LinuxWelt_SH-RR_Extra_2024-3.iso)
 
 SHA256 Checksumme: 7eaa18b307b4c352a3e8f84a41de80babd5cf99569920e2a9d943e6f16e0f717
