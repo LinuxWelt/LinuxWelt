@@ -7,8 +7,10 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 # 💽 Liste der ISO-Dateien 
 
 ## 📥 LinuxWelt Heft-DVDs und Extra-DVDs als ISO-Datei
-  ⭐ [LinuxWelt_2024-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5-Extra)  
-  ⭐ [LinuxWelt_2024-5](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5)  
+  ⏳ LinuxWelt_2024-6-Extra - in Vorbereitung  
+  ⏳ LinuxWelt_2024-6 - in Vorbereitung  
+  💽 [LinuxWelt_2024-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5-Extra)  
+  💽 [LinuxWelt_2024-5](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5)  
   💽 [LinuxWelt_2024-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-4-Extra) - aktualisiert  
   💽 [LinuxWelt_2024-4](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-4)   
   💽 [LinuxWelt_2024-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3-Extra)    
@@ -42,8 +44,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 
 ## 📥 Sonderhefte Linux XXL, Heft-DVDs und Extra-DVDs
 
-  💽 [Sonderheft_Retten_2024-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3-Extra)  
-  💽 [Sonderheft_Retten_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3)    
+  ⭐ [Sonderheft_Retten_2024-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3-Extra) - das aktuelle Heft  
+  ⭐ [Sonderheft_Retten_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3) - das aktuelle Heft  
   💽 [Sonderheft_XXL_2024-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-2-Extra)  
   💽 [Sonderheft_XXL_2024-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-2)  
   💽 [Sonderheft_XXL_2024-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-1-Extra)  
