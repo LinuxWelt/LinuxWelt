@@ -8,7 +8,7 @@ Hier findet sich zur LinuxWelt 2024-6 der Download des Extra-Image als ISO-Datei
     3. Kanotix "Slowfire" Nightlty (2024)
     
 ## 🖼️ Screenshot Bootmenü
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-6_extra.png" width="70%">
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-6_Extra.png" width="70%">
 
 ## 📥 Download
 
