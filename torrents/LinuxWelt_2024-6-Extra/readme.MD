@@ -12,7 +12,7 @@ Hier findet sich zur LinuxWelt 2024-6 der Download des Extra-Image als ISO-Datei
 
 ## 📥 Download
 
-Image-Datei: [LinuxWelt_2024-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2024-6-Extra/LinuxWelt_2024-6-Extra.iso), 4,3 GB. 
+Image-Datei: [LinuxWelt_2024-6-Extra.iso](https://torrent3.code2decode.com/LinuxWelt_2024-6-Extra/LinuxWelt_2024-6-Extra.iso), 4,3 GB. 
 
 SHA256 Checksumme: 53590ed5d9c2081273d81fa4403bd978c392b459363fac91815ab94bfe88a6e5
 
