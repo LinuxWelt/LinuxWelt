@@ -5,7 +5,7 @@ Hier findet sich zur LinuxWelt 2024-6 der Download des Extra-Image als ISO-Datei
 ## 💻 Systeme (64 Bit)
     1. Mini OS 3.3.4 LinuxWelt-Edition
     2. Porteux 1.5 LinuxWelt-Edition
-    3. Kanotix "Slowfire" Nightlty (2024)
+    3. Kanotix "Slowfire" Nightly (2024)
     
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2024-6_Extra.png" width="70%">
