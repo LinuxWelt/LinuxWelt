@@ -13,7 +13,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
   💽 [LinuxWelt_2024-6](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-6)  
   💽 [LinuxWelt_2024-5-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5-Extra)  
   💽 [LinuxWelt_2024-5](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-5)  
-  💽 [LinuxWelt_2024-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-4-Extra) - aktualisiert  
+  🌟 [LinuxWelt_2024-4-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-4-Extra) - aktualisiert  
   💽 [LinuxWelt_2024-4](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-4)   
   💽 [LinuxWelt_2024-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3-Extra)    
   💽 [LinuxWelt_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2024-3)   
@@ -46,8 +46,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 
 ## 📥 Sonderhefte Linux XXL, Heft-DVDs und Extra-DVDs
 
-  ⭐ [Sonderheft_Retten_2024-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3-Extra) - das aktuelle Heft  
-  ⭐ [Sonderheft_Retten_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3) - das aktuelle Heft  
+  💽 [Sonderheft_Retten_2024-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3-Extra) - das aktuelle Heft  
+  💽 [Sonderheft_Retten_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3) - das aktuelle Heft  
   💽 [Sonderheft_XXL_2024-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-2-Extra)  
   💽 [Sonderheft_XXL_2024-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-2)  
   💽 [Sonderheft_XXL_2024-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-1-Extra)  
@@ -63,7 +63,4 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
   💽 [Sonderheft_XXL_2022-2 Extra-DVD](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2022-2-Extra)  
   💽 [Sonderheft_XXL_2022-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2022-2)  
   💽 [Sonderheft_XXL_2022-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2022-1)  
-
-
-
-
+  
