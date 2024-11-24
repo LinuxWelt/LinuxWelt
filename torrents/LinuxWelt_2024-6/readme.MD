@@ -1,6 +1,6 @@
 # 💽 LinuxWelt 2024-6 Heft-DVD
 
-Hier findet sich begleitend zum Veröffentlichungstermin der LinuxWelt 2024-6 die Heft-DVD als ISO-Datei zum freien Download. Die ISO-Datei ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Es ist der offizielle Download und Torrent der Redaktion. Bitte beachten Sie: Die Jahresarchive 2004-2024 und das reguläre E-Book als PDF sind aufgrund von Urheberrechten auf enthaltene Artikel nicht in diesem ISO-Image enthalten.
+Hier findet sich begleitend zur LinuxWelt 2024-6 die Heft-DVD als ISO-Datei zum freien Download. Die ISO-Datei ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Es ist der offizielle Download und Torrent der Redaktion. Bitte beachten Sie: Die Jahresarchive 2004-2024 und das reguläre E-Book als PDF sind aufgrund von Urheberrechten auf enthaltene Artikel nicht in diesem ISO-Image enthalten.
 
 ## 💻 Systeme (64 Bit)
     1. Linux Mint 22
