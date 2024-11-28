@@ -12,7 +12,7 @@ Hier findet sich zur LinuxWelt 2025-1 der Download des Extra-Image als ISO-Datei
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-1-Extra_menu.png" width="70%">
 
-Image-Datei: [LinuxWelt_2025-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-1-Extra/LinuxWelt_2025-1-Extra.iso) [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-1-Extra/LinuxWelt_2025-1-Extra.iso), 4,2 GB. 
+Image-Datei: [LinuxWelt_2025-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-1-Extra/LinuxWelt_2025-1-Extra.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-1-Extra/LinuxWelt_2025-1-Extra.iso) (Größe: 4,2 GB). 
 
 SHA256 Checksumme: 58b147e51d639f82c6c768fd092dff7b41e87ef50fa00bb3716f3a49427bebdc
 
