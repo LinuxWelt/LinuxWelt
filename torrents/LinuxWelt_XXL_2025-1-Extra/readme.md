@@ -6,6 +6,13 @@ Auf dieser Seite findet sich der Download des Extra-Image zum Linux Sonderheft X
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2025-1-Extra_menu.png" width="70%">
 
 
+Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
+
+## 💻 Systeme:
+    1. Zephix	7 LinuxWelt-Edition (64 Bit)
+    2. Mini OS 3.3.4 LinuxWelt-Edition (64 Bit)
+    3. Rescuezilla 2.5.1 (64 Bit)
+    4. LinuxWelt Rettungssystem 10.2 (64 Bit)
 
 ## 📥 Download: Checksumme und Mirror
 
