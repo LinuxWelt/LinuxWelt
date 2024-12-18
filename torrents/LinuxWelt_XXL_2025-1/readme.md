@@ -10,6 +10,20 @@ Image-Datei: [LinuxWelt_XXL_2025-1.iso](https://torrent.code2decode.com/LinuxWel
 
 SHA256-Checksumme: a152a8302301d3c12cde62e9ed98084e51c6f838645060f98b1794c55af2623e
 
+## 💻 Systeme (64 Bit)
+    1. Linux Mint	22 (64 Bit)
+    2. KDE Neon User Edition 24.04.1 (64 Bit)
+    3. MX Workbench 23.4 (64 Bit)
+    4. Gparted Live 1.6 (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06b4 (BIOS und UEFI)
+    2. Memtest86+ 7.20 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.83 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
