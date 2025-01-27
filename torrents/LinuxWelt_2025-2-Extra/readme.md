@@ -11,7 +11,9 @@ Hier findet sich zur LinuxWelt 2025-1 der Download des Extra-Image als ISO-Datei
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-2-Extra_menu.png" width="70%">
 
-SHA256 Checksumme: 58b147e51d639f82c6c768fd092dff7b41e87ef50fa00bb3716f3a49427bebdc
+Image-Datei: [LinuxWelt_2025-2-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-2-Extra/LinuxWelt_2025-2-Extra.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-2-Extra/LinuxWelt_2025-2-Extra.iso) (Größe: 4,2 GB). 
+
+SHA256 Checksumme: fc7db959ebff003e5b884341e047f53de7d6ce97244eab0fff07608160fa6765
 
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
