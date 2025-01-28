@@ -2,9 +2,24 @@
 
 Hier findet sich zur LinuxWelt 2025-2 der Download der Heft-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Deses Image ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Bitte beachten Sie, dass sich das E-Book nicht in diesem ISO-Image befindet.
 
+## 💻 Systeme
+    1. Linux Mint 22.1 Cinnamon (64 Bit)
+    2. Linux Lite 7.2 (64 Bit)
+    3. Open Suse Tumbleweed KDE (64 Bit)
+    4. Antix 23.2 (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.2 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-2_menu.png" width="70%">
 
+## 📥 Download:
 Image-Datei: [LinuxWelt_2025-2.iso](https://torrent.code2decode.com/LinuxWelt_2025-2/LinuxWelt_2025-2.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-2/LinuxWelt_2025-2.iso) (Größe: 8,0 GB). 
 
 SHA256 Checksumme: 4ec75f6eb14d97f75f4177956f2d4f106e4849dc15fb8f8bbd20f7ed19e1c2ac
