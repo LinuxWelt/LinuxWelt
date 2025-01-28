@@ -5,6 +5,8 @@ Hier findet sich zur LinuxWelt 2025-2 der Download der Heft-DVD als ISO-Datei. E
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-2_menu.png" width="70%">
 
+Image-Datei: [LinuxWelt_2025-2.iso](https://torrent.code2decode.com/LinuxWelt_2025-2/LinuxWelt_2025-2.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-2/LinuxWelt_2025-2.iso) (Größe: 8,0 GB). 
+
 SHA256 Checksumme: 4ec75f6eb14d97f75f4177956f2d4f106e4849dc15fb8f8bbd20f7ed19e1c2ac
 
 ## 🔗 Bittorrent
