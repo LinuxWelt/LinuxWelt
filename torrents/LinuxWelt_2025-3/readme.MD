@@ -5,6 +5,20 @@ Hier findet sich zur LinuxWelt 2025-3 der Download der Heft-DVD als ISO-Datei. E
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-3_menu.png" width="70%">
 
+## 💻 Systeme (alle 64 Bit)
+    1. Zorin OS Core 17.2  
+    2. Q4os 5.7  
+    3. Peppermint OS Installer  
+    4. Cachy OS 250202
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.2 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2025-3.iso](https://torrent.code2decode.com/LinuxWelt_2025-3/LinuxWelt_2025-3.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-3/LinuxWelt_2025-3.iso) (Größe: 8,0 GB). 
 
