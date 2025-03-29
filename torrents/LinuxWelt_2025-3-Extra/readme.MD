@@ -7,9 +7,9 @@ Hier findet sich zur LinuxWelt 2025-3 der Download des Extra-Image als ISO-Datei
 
 ## 💻 Systeme (64 Bit)
     1. LinuxWelt Rettungssystem 10.3  
-    2. Maid 4.2 Light (64 Bit)
-    3. GRML 2024.12 (64 Bit)
-    4. Porteus 5.1 (64 Bit)
+    2. Maid 4.2 Light  
+    3. GRML 2024.12  
+    4. Porteus 5.1  
 
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2025-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-3-Extra/LinuxWelt_2025-3-Extra.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-3-Extra/LinuxWelt_2025-3-Extra.iso) (Größe: 4,2 GB). 
