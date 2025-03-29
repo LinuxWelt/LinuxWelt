@@ -2,6 +2,9 @@
 
 Hier findet sich zur LinuxWelt 2025-3 der Download der Heft-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Deses Image ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Bitte beachten Sie, dass sich das E-Book nicht in diesem ISO-Image befindet.
 
+## 🖼️ Screenshot Bootmenü
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-3_menu.png" width="70%">
+
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2025-3.iso](https://torrent.code2decode.com/LinuxWelt_2025-3/LinuxWelt_2025-3.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-3/LinuxWelt_2025-3.iso) (Größe: 8,0 GB). 
 
