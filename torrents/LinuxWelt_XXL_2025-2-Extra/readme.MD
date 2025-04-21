@@ -24,7 +24,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 
 [LinuxWelt_XXL_Extra_2025-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2025-2/LinuxWelt_XXL_Extra_2025-2.iso), (Grösse: 4,3 GB)
 
-SHA256 Checksumme: 243e561d64f459fd9921b62832ae2ed6e439a3da8d943fc75173b11edeeefbc6
+SHA256 Checksumme: 04671fca139b003c02313078ef35c0aa3719e26b3642391dac9592d04b392a82
 
 '''
 magnet:?xt=urn:btih:7529efa4095d0d3f7e62b2c837d574d6a2cd6f6b&dn=LinuxWelt_XXL_Extra_2025-2&xl=4678467681&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fmartin-
