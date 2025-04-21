@@ -6,13 +6,25 @@ Alle Inhalte folgen zum Veröffentlichungstermin am 24.04.25.
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2025-2-Extra_menu.png" width="70%">
 
 <!--
-
 Auf dieser Seite findet sich der Download des Extra-Image zum Linux Sonderheft XXL 2/24 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für DVD-Rs (4,3 GB) und USB-Sticks ab 8 GB Kapazität geeignet. Dabei startet der Sttick wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems.
 
-## 🖼️ Screenshot Bootmenü:
-<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2025-2-Extra_menu.png" width="70%">
-
 Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise bootfähige Utilities.
+
+## 💻 Systeme
+    1. Ubuntu Mate 24.04.2 (64 Bit) - mit Firefox als DEB vorinstalliert
+    2. Gparted Live 1.7 (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.2 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
+[LinuxWelt_XXL_Extra_2025-2.iso](https://torrent.code2decode.com/LinuxWelt_XXL_Extra_2025-2/LinuxWelt_XXL_Extra_2025-2.iso), (Grösse: 4,3 GB)
+
+SHA256 Checksumme: 243e561d64f459fd9921b62832ae2ed6e439a3da8d943fc75173b11edeeefbc6
 
 '''
 magnet:?xt=urn:btih:7529efa4095d0d3f7e62b2c837d574d6a2cd6f6b&dn=LinuxWelt_XXL_Extra_2025-2&xl=4678467681&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fmartin-
