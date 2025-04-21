@@ -1,4 +1,9 @@
-Inhalte folgen zum Veröffentlichungstermin.
+# 💽 Sonderheft Linux XXL 2/25 Heft-DVD
+
+Alle Inhalte folgen zum Veröffentlichungstermin am 24.04.25
+
+## 🖼️ Screenshot Bootmenü:
+<img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_XXL_2025-2_menu.png" width="70%">
 
 <!--
 '''
