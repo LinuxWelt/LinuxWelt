@@ -52,10 +52,10 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
 
 <!-- Nur Sonderhefte ab hier -->
 
-  ⏳ [Sonderheft_XXL_2025-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-2-Extra) - in Vorbereitung  
-  ⏳ [Sonderheft_XXL_2025-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-2)  - in Vorbereitung  
-  💽 [Sonderheft_XXL_2025-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-1-Extra) - Das aktuelle Heft  
-  💽 [Sonderheft_XXL_2025-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-1)  - Das aktuelle Heft    
+  ⏳ [Sonderheft_XXL_2025-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-2-Extra) - Das aktuelle Heft   
+  ⏳ [Sonderheft_XXL_2025-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-2) - Das aktuelle Heft   
+  💽 [Sonderheft_XXL_2025-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-1-Extra)  
+  💽 [Sonderheft_XXL_2025-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2025-1)    
   💽 [Sonderheft_Retten_2024-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3-Extra)  
   💽 [Sonderheft_Retten_2024-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/Sonderheft_2024-3)    
   💽 [Sonderheft_XXL_2024-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-2-Extra)  
