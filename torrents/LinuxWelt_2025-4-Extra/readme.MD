@@ -8,7 +8,11 @@ Die Inhalte folgen zum Veröffentlichtungstermin. Bitte noch etwas Geduld.
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-4_Extra.png" width="70%">
 
 <!-- 
-https://m6u.de/lw254extra
+## 💻 Systeme (64 Bit)
+    1. MX Workbench 23.6
+    2. System Rescue 12
+    3. Rescuezilla 2.6
+
 
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2025-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) (Größe: 4,3 GB). 
