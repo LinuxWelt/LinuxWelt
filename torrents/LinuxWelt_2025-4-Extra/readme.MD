@@ -14,7 +14,7 @@ Die Inhalte folgen zum Veröffentlichtungstermin. Bitte noch etwas Geduld.
     3. Rescuezilla 2.6
 
 ## 📥 Download:
-Image-Datei: [LinuxWelt_2025-4-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) (Größe: 4,3 GB). 
+Image-Datei: [LinuxWelt_2025-4-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) - [Mirror](https://torrent5.code2decode.com:8443/LinuxWelt_2025-4-Extra/LinuxWelt_2025-4-Extra.iso) (Größe: 4,3 GB). 
 
 SHA256 Checksumme: 9808f8595dfe7c245ceedea1853213df484e3efdfc4eae24929e7bae89abdb2b
 
