@@ -6,7 +6,7 @@ Hier findet sich zur LinuxWelt 2025-5 der Download der zugehörigen Heft-DVD als
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-5_menu.png" width="70%">
 
 ## 📥 Download:
-Image-Datei: [LinuxWelt_2025-5.iso](https://torrent.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) - [Mirror](https://torrent5.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) (Größe: 8,0 GB). 
+Image-Datei: [LinuxWelt_2025-5.iso](https://torrent.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) (Größe: 8,0 GB). 
 
 SHA256 Checksumme: 82b74a8422b049b826baf04dd406d85bda19ff89916fbe0766062ab6fd440208
 
