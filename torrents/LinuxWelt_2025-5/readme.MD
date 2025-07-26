@@ -2,13 +2,29 @@
 
 Hier findet sich zur LinuxWelt 2025-5 der Download der zugehörigen Heft-DVD als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Deses Image ist zur Übertragung auf einen USB-Stick (ab 16 GB) geeignet und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Bitte beachten Sie, dass sich das E-Book nicht in diesem ISO-Image befindet.
 
-## 🖼️ Screenshot Bootmenü
-<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-5_menu.png" width="70%">
-
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2025-5.iso](https://torrent.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-5/LinuxWelt_2025-5.iso) (Größe: 8,0 GB). 
 
 SHA256 Checksumme: 82b74a8422b049b826baf04dd406d85bda19ff89916fbe0766062ab6fd440208
+
+## 🖼️ Screenshot Bootmenü
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-5_menu.png" width="70%">
+
+## 💻 Systeme
+    1. Fedora Linux KDE 42 (64 Bit)
+    2. Debian Installer 13 "Trixie" (64 Bit)
+    3. Anduin OS 1.3 (64 Bit) 
+    4. LinuxWelt Rettungssystem 11 (64 Bit) 
+    5. Open Media Vault 7.4.17 als ISO-Datei (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.2 (BIOS und UEFI)
+    3. Shred OS 2021.08.2 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
