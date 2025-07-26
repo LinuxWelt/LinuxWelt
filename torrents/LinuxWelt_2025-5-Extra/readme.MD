@@ -2,13 +2,19 @@
 
 Hier findet sich zur LinuxWelt 2025-5 der Download des Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
+## 📥 Download:
+Image-Datei: [LinuxWelt_2025-5-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-5-Extra/LinuxWelt_2025-5-Extra.iso) - [Mirror](https://torrent5.code2decode.com:8443/LinuxWelt_2025-5-Extra/LinuxWelt_2025-5-Extra.iso) (Größe: 4,3 GB).
+
+SHA256 Checksumme: 4d2301f25c253fbc5cc1767e7f135b7fdd93522479431e6d56d0c075337646d4
+
 ## 🖼️ Screenshot Bootmenü
 <img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-5_extra.png" width="70%">
 
-## 📥 Download:
-Image-Datei: [LinuxWelt_2025-5-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-5-Extra/LinuxWelt_2025-5-Extra.iso) - [Mirror](https://torrent5.code2decode.com:8443/LinuxWelt_2025-5-Extra/LinuxWelt_2025-5-Extra.iso) (Größe: 4,3 GB). 
-
-SHA256 Checksumme: 4d2301f25c253fbc5cc1767e7f135b7fdd93522479431e6d56d0c075337646d4
+## 💻 Systeme 
+    1. Kanotix Slowfire Nightly mit LXDE (64 Bit)
+    2. GRML 2025.05
+    3. PorteuX 2.1.1 LinuxWelt-Edition 
+    4. Puppy Linux BookwormPup12
 
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
