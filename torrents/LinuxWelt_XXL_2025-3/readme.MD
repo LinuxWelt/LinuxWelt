@@ -17,7 +17,7 @@ Auf dieser Seite findet sich bald der Download der Heft-DVD des Sonderhefts Linu
 
 # ⏳ Downloads folgen in Kürze
 
-<-- 
+<!-- 
 
 ## 📥 Download:
 Image-Datei: [LinuxWelt_XXL_2025-1.iso](https://torrent.code2decode.com/LinuxWelt_SH_LW_2025-3/LinuxWelt_Sonderheft_2025-3.iso
