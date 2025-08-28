@@ -3,7 +3,7 @@
 Auf dieser Seite findet sich bald der Download der Heft-DVD des Sonderhefts LinuxWelt 3/25 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität geeignet. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Bitte beachten Sie, dass diese freie Download-Version der ISO-Datei kein LinuxWelt-Ebook und keine LinuxWelt-Jahrgänge als PDF enthält.
 
 
-# _Inhalt folgen._
+# _Inhalte folgen in Kürze.
 
 
 <!--
