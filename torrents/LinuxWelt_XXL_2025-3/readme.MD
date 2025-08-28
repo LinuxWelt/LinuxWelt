@@ -2,12 +2,6 @@
 
 Auf dieser Seite findet sich bald der Download der Heft-DVD des Sonderhefts LinuxWelt 3/25 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität geeignet. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Bitte beachten Sie, dass diese freie Download-Version der ISO-Datei kein LinuxWelt-Ebook und keine LinuxWelt-Jahrgänge als PDF enthält.
 
-
-# _Inhalte folgen in Kürze.
-
-
-<!--
-
 ## 💻 Systeme (64 Bit)
     1. Xubuntu Minimal 24.04.3
     2. Dr. Parted LinuxWelt-Edition 25.07
@@ -20,6 +14,10 @@ Auf dieser Seite findet sich bald der Download der Heft-DVD des Sonderhefts Linu
     4. Netboot.xyz 2.0.85 (BIOS und UEFI)
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
+
+# ⏳ Downloads folgen in Kürze
+
+<-- 
 
 ## 📥 Download:
 Image-Datei: [LinuxWelt_XXL_2025-1.iso](https://torrent.code2decode.com/LinuxWelt_SH_LW_2025-3/LinuxWelt_Sonderheft_2025-3.iso
