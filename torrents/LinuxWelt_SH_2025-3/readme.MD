@@ -20,6 +20,9 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
+<!--
+https://m6u.de/SH325EXTRA
+-->
 
 ### 🧲 Magnet-Link für den Bittorrent-Download
 ```
