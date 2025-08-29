@@ -23,5 +23,7 @@ Das Image und dessen Multibootmenü bietet folgende Systeme beziehungsweise boot
 # ⏳ Downloads
 Image-Datei: [LinuxWelt_Sohe_Extra_2025-3.iso](https://torrent.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_Sohe_Extra_2025-3.iso), (Grösse: 4,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_Sohe_Extra_2025-3.iso)
 
+SHA256-Checksumme: 82301d1b9d0230066ebeb0b4b664c4cd3a645b787d6ddc96aa007918d1eb3082
+
 ## 🆓 Lizenzen
 Das ISO-Image enhält nur Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
