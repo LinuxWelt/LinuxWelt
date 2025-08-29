@@ -7,6 +7,18 @@ Bitte beachten Sie, dass diese Download-Version der ISO-Datei kein LinuxWelt-Ebo
 ## 🖼️ Screenshot Bootmenü:
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_SH_LW_2025-3_menu.png" width="70%">
 
+## 💻 Systeme
+    1. Dr. Parted Live 25.07 LinuxWelt-Edition (64 Bit)
+    2. Fedora Linux 42 Workstation (64 Bit)
+    3. Xubuntu 24.04.03 Minimal (64 Bit)
+
+## 🛠️ Utilities
+    1. Super Grub Disk 2.06s3 beta4 (BIOS und UEFI)
+    2. Memtest86+ 7.2 (BIOS und UEFI)
+    3. Shred OS 2024.11_27, erweiterte Version (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (BIOS und UEFI)
 
 ## 📥 Download:
 
