@@ -6,7 +6,7 @@ Auf dieser Seite findet sich der Download des Extra-Image zum LinuxWelt Sonderhe
 <img src="https://raw.githubusercontent.com/LinuxWelt/LinuxWelt/main/docs/images/LinuxWelt_SH_LW_2025-3_extra.png" width="70%">
 
 # ⏳ Downloads
-Image-Datei: [LinuxWelt_SH_Extra_2025-3](https://torrent.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_SH_Extra_2025-3.iso), (Grösse: 4,4 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_SH_Extra_2025-3.iso)
+Image-Datei: [LinuxWelt_Sohe_Extra_2025-3.iso](https://torrent.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_Sohe_Extra_2025-3.iso), (Grösse: 4,4 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_SH_Extra_2025-3/LinuxWelt_Sohe_Extra_2025-3.iso)
 
 
 ## 🆓 Lizenzen
