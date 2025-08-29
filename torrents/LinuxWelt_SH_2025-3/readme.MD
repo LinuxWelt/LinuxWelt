@@ -12,11 +12,9 @@ Bitte beachten Sie, dass diese Download-Version der ISO-Datei kein LinuxWelt-Ebo
 
 Image-Datei: [LinuxWelt_Sonderheft_2025-3.iso](https://torrent.code2decode.com/LinuxWelt_SH_LW_2025-3/LinuxWelt_Sonderheft_2025-3.iso), (Grösse: 6,7 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_SH_LW_2025-3/LinuxWelt_Sonderheft_2025-3.iso)
 
-SHA256 Checksumme: e9e4b76c771ddefb925c7e9677d56f4241160a68f74e865ae0222407fa794b6d
+SHA256 Checksumme: 7edcd8ef711cacee5e6633da9e4755f5103968cc0898dbee662e1b3ca474ebbb
 
 <!--
-https://m6u.de/SH325EXTRA
-
 
 ### 🧲 Magnet-Link für den Bittorrent-Download
 ```
