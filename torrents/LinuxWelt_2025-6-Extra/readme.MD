@@ -9,7 +9,7 @@ Hier findet sich zur LinuxWelt 2025-6 der Download des Extra-Image als ISO-Datei
 
 ## 📥 Download:
 
-Image-Datei: [LinuxWelt_2025-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.iso) - [Mirror](https://torrent6.code2decode.com:8443/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.iso) (Größe: 4,3 GB).
+Image-Datei: [LinuxWelt_2025-6-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.iso) (Größe: 4,3 GB).
 
 SHA256 Checksumme: 5f11f31aeb535b3cda953958d8b91adef691abde51235d02ceaa3a25e8269255
 
