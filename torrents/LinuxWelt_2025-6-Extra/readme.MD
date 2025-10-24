@@ -5,8 +5,8 @@
 Hier findet sich zur LinuxWelt 2025-6 der Download des Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
 ## Systeme 
-    1. Tails 7.0 (64 Bit)
-    2. Rescuezilla 2.6.1 (64 Bit)
+    1. Rescuezilla 2.6.1 (64 Bit)
+    2. Tails 7.0 (64 Bit)
     3. Mini OS 5.0 LinuxWelt-Edition (64 Bit)
 
 ## Download:
