@@ -2,6 +2,9 @@
 
 Hier findet sich zur LinuxWelt 2025-6 der Download des Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus.
 
+## 🖼️ Screenshot Bootmenü
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2025-6_extra.png" width="70%">
+
 ## 💻 Systeme 
     1. Tails 7.0 (64 Bit)
     2. Rescuezilla 2.6.1 (64 Bit)
@@ -18,7 +21,8 @@ SHA256 Checksumme: 5f11f31aeb535b3cda953958d8b91adef691abde51235d02ceaa3a25e8269
 ## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
-Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.torrent).
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra.torrent) ([Magnet Link](https://m6u.de/256extra "Magnet Link")).
+.
 
 ### 🧲 Magnet-Link für den Bittorrent-Download
 ```
