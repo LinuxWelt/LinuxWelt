@@ -4,6 +4,8 @@ Dies ist der offizielle Github-Account der Redaktion LinuxWelt.
 
 Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs bis zurück zur LinuxWelt 2022-1 als ISO-Datei über Bittorrent und seit September 2022 auch als direkter Download (HTTP) von den Servern der Redaktion. Die ISO-Dateien sind alle auch für USB-Sticks geeignet, starten unter BIOS auch unter UEFI und zeigen ein Multibootmenü zur Auswahl der enhaltenen Systeme.
 
+### 🚨 Hinweis 25.10.2025: Aufgrund einer Störung bei DNS-Dienst Enom ist der Download der Images bis voraussichtich 27.10.2025 zeitweise gestört. Die Downloads über die angegeben Mirrors und über Bittorrent funktionieren weiterhin.
+
 # Liste der ISO-Dateien 
 
 ## LinuxWelt Heft-DVDs und Extra-DVDs als ISO-Datei
