@@ -19,7 +19,7 @@ Hier findet sich zur LinuxWelt 2025-6 der Download der zugehörigen Heft-DVD als
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## Download:
-Image-Datei: [LinuxWelt_2025-6.iso](https://torrent.code2decode.com/LinuxWelt_2025-6/LinuxWelt_2025-6.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2025-6/LinuxWelt_2025-6.iso) (Größe: 7.6 GB). 
+Image-Datei: [LinuxWelt_2025-6.iso](https://torrent3.code2decode.com/LinuxWelt_2025-6/LinuxWelt_2025-6.iso) - [Mirror](https://torrent4.code2decode.com/LinuxWelt_2025-6/LinuxWelt_2025-6.iso) (Größe: 7.6 GB). 
 
 SHA256 Checksumme: 6dddf03cf110aea0f6d5b237ddf029ce1a022a3a9566424646ac4f41e3e72c18
 
