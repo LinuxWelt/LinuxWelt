@@ -24,6 +24,9 @@ Image-Datei: [LinuxWelt_2025-6-Extra-v2.iso](https://torrent.code2decode.com/Lin
 SHA256 Checksumme: 9bc66c8e3c802f87ebb0ad26fe75473469d1936e6408729db08e0685fa7c1be6
 
 ## Bittorrent
+Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
+
+Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/refs/heads/main/torrents/LinuxWelt_2025-6-Extra/LinuxWelt_2025-6-Extra-v2.torrent) ([Magnet Link](https://m6u.de/256extra "Magnet Link")).
 
 ### 🧲 Magnet-Link für den Bittorrent-Download
 ```
