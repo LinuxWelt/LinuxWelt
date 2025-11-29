@@ -1,3 +1,5 @@
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_2026-1_extra2.png" width="70%">
+
 # 💽 LinuxWelt 2026-1: Das zweite Extra-Image
 
 Hier findet sich zur LinuxWelt 2026-1 der Download des ersten Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Diese Ausgabe liefert zwei Extra-Images. Das erste Image finden Sie [hier](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-1-Extra)
