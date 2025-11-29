@@ -18,7 +18,7 @@ Hier findet sich zur LinuxWelt 2026-1 der Download des ersten Extra-Image als IS
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
 ## 📥 Download:
-Image-Datei: [LinuxWelt_2026-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2026-1-Extra/LinuxWelt_2026-1-Extra.iso) (Größe: 8,1 GB).
+Image-Datei: [LinuxWelt_2026-1-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2026-1-Extra/LinuxWelt_2026-1-Extra.iso) (Größe: 7,9 GB).
 
 SHA256 Checksumme: 0972985369cc87e2a9aaaf4d33b7839af25269eb94b17df3d8577fa4d96caa83
 
