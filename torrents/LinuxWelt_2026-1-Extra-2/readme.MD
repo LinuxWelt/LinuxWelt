@@ -4,6 +4,19 @@
 
 Hier findet sich zur LinuxWelt 2026-1 der Download des ersten Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Diese Ausgabe liefert zwei Extra-Images. Das erste Image finden Sie [hier](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-1-Extra)
 
+## Systeme 
+    1. LinuxWelt Rettungssystem 11.1 (64 Bit)
+    2. Ufficio Zero Duplica 1.4 (64 Bit)
+    3. GRML	2025-08 (64 Bit)
+
+##  Utilities
+    1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
+    2. Memtest86+ 7.0 (BIOS und UEFI)
+    3. Shred OS 2024.11_27 (BIOS und UEFI)
+    4. Netboot.xyz 2.0.85 (BIOS und UEFI)
+    5. Hardware Detection Tool 0.5.2 (Nur BIOS)
+    6. Plop Bootmanager 6.0 (Nur BIOS)
+
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2026-1-Extra-2.iso](https://torrent.code2decode.com/LinuxWelt_2026-1-Extra-2/LinuxWelt_2026-1-Extra-2.iso) (Größe: 4,1 GB).
 
