@@ -17,7 +17,7 @@ Hier findet sich zur LinuxWelt 2026-1 in Kürze der Download der zugehörigen He
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
-## Download:
+## 📥 Download:
 Image-Datei: [LinuxWelt_2026-1.iso](https://torrent.code2decode.com/LinuxWelt_2026-1/LinuxWelt_2026-1.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-1/LinuxWelt_2026-1.iso) (Größe: 5,6 GB). 
 
 SHA256 Checksumme: 6dddf03cf110aea0f6d5b237ddf029ce1a022a3a9566424646ac4f41e3e72c18
