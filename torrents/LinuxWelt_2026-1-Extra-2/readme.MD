@@ -4,12 +4,12 @@
 
 Hier findet sich zur LinuxWelt 2026-1 der Download des ersten Extra-Image als ISO-Datei. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.12 im BIOS- sowie UEFI-Modus. Diese Ausgabe liefert zwei Extra-Images. Das erste Image finden Sie [hier](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-1-Extra)
 
-## Systeme 
+## 💻 Systeme 
     1. LinuxWelt Rettungssystem 11.1 (64 Bit)
     2. Ufficio Zero Duplica 1.4 (64 Bit)
     3. GRML	2025-08 (64 Bit)
 
-##  Utilities
+## 🛠️ Utilities
     1. Super Grub Disk 2.06beta2 (BIOS und UEFI)
     2. Memtest86+ 7.0 (BIOS und UEFI)
     3. Shred OS 2024.11_27 (BIOS und UEFI)
@@ -22,12 +22,12 @@ Image-Datei: [LinuxWelt_2026-1-Extra-2.iso](https://torrent.code2decode.com/Linu
 
 SHA256 Checksumme: 9ed1a3661b52e4c466b674ad3f1c260277956464a75f82932fafa1764e4553e4
 
-## Bittorrent
+## 🔗 Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2026-1-Extra-2/LinuxWelt_2026-1-Extra-2.torrent) ([Magnet Link](https://m6u.de/2extra126 "Magnet Link")).
 
-### Magnet-Link für den Bittorrent-Download
+### 🧲 Magnet-Link für den Bittorrent-Download
 ```
 magnet:?xt=urn:btih:96e251d2259d169a12808497e98588115af41759&dn=LinuxWelt_2026-1-Extra-2&xl=4433436767&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.jdx3.org%3A443%2Fannounce&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fannounce&tr=udp%3A%2F%2Fudp.tracker.projectk.org%3A23333%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=https%3A%2F%2Ftr.nyacat.pw%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.ducks.party%3A1984%2Fannounce&tr=udp%3A%2F%2Fextracker.dahrkael.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.plx.im%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tvunderground.org.ru%3A3218%2Fannounce&tr=udp%3A%2F%2Ftracker.startwork.cv%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zupix.online%3A1333%2Fannounce&tr=udp%3A%2F%2Ftracker.cloudbase.store%3A1333%2Fannounce&tr=https%3A%2F%2Ftracker.alaskantf.com%3A443%2Fannounce&tr=https%3A%2F%2Ft.213891.xyz%3A443%2Fannounce&tr=udp%3A%2F%2Frekcart.duckdns.org%3A15480%2Fannounce&tr=https%3A%2F%2Fcny.fan%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.qingwa.pro%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.valete.tf%3A9999%2Fannounce&tr=https%3A%2F%2Ftracker.ghostchu-services.top%3A443%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.rescuecrew7.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.belmult.online%3A443%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A54123%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fbandito.byterunner.io%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.uraniumhexafluori.de%3A443%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.gmi.gd%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.skillindia.site%3A6969%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftr4ck3r.duckdns.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.1h.is%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.hifitechindia.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.hifimarket.in%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.tritan.gg%3A8080%2Fannounce
 ```
