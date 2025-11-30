@@ -1,1 +1,1 @@
-Inhalte folgen zum 12.12.25.
+⛄ Inhalte folgen zum 12.12.25.
