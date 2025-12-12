@@ -1,3 +1,5 @@
+<img src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/LinuxWelt_XXL_2026-01-Menu.png" width="70%">
+
 # 💽 Sonderheft LinuxWelt XXL 1/26 Heft-DVD
 
 Auf dieser Seite findet sich der Download der Heft-DVD des Sonderhefts Linux XXL 1/26 als ISO-Datei, direkt von unseren Servern und als Bittorrent als offizieller Torrent der Redaktion. Die ISO-Datei ist für USB-Sticks ab 16 GB Kapazität. Dabei startet wie von Heft-DVD ein Multibootmenü auf der Basis von Grub 2.06 im BIOS- sowie UEFI-Modus zur weiteren Auswahl des gewünschten Systems. Bitte beachten Sie: Das E-Book (LinuxWelt XXL digital) ist in in diesem frei verfügbaren ISO-Image enthalten. Wir bitten um Verständnis.
