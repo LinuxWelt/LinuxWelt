@@ -23,7 +23,7 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
    📀[LinuxWelt_2025-1-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2025-1-Extra)   
    📀[LinuxWelt_2025-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2025-1)  
 
-   Archiv: Ältere Ausgaben finden sich [hier](https://github.com/LinuxWelt/Heft-Archiv/blob/main/README.md)   
+   __Archiv:__ Ältere Ausgaben finden sich [hier](https://github.com/LinuxWelt/Heft-Archiv/blob/main/README.md)   
 
 ## 🐧Sonderhefte Linux XXL, Heft-DVDs und Extra-DVDs
 
@@ -43,5 +43,5 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs b
    📀[Sonderheft_XXL_2024-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-1-Extra)  
    📀[Sonderheft_XXL_2024-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2024-1)  
 
-   Archiv: Ältere Ausgaben finden sich [hier](https://github.com/LinuxWelt/Heft-Archiv/blob/main/README.md)  
+   __Archiv:__ : Ältere Ausgaben finden sich [hier](https://github.com/LinuxWelt/Heft-Archiv/blob/main/README.md)  
   
