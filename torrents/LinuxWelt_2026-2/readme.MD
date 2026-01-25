@@ -17,7 +17,7 @@ Hier findet sich zur LinuxWelt 2026-2 in Kürze der Download der zugehörigen He
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
-<--!
+<--
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2026-2.iso](https://torrent.code2decode.com/LinuxWelt_2026-2/LinuxWelt_2026-2.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-2/LinuxWelt_2026-2.iso) (Größe: 8,1 GB). 
 
