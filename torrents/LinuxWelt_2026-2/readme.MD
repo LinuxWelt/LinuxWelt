@@ -28,4 +28,14 @@ Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Pr
 
 Die zum Download benötigte Torrent-Datei findet sich [hier](https://github.com/LinuxWelt/LinuxWelt/raw/main/torrents/LinuxWelt_2026-2/LinuxWelt_2026-2.torrent) ([Magnet Link](https://m6u.de/dvd262 "Magnet Link")).
 
+### 🧲 Magnet-Link für den Bittorrent-Download
+```
+magnet:?xt=urn:btih:6ece603987e1d3469e67249fe9e6bf31e8381097&dn=LinuxWelt_2026-2-Extra&xl=4116246621&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.ducks.party%3A1984%2Fannounce&tr=http%3A%2F%2Flucke.fenesisu.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Fextracker.dahrkael.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=udp%3A%2F%2Ftracker.flatuslifir.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A54123%2Fannounce&tr=udp%3A%2F%2Fns575949.ip-51-222-82.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ixuexi.click%3A6969%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Fpublic.demonoid.ch%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Fwegkxfcivgx.ydns.eu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen-tracker.demonoid.ch%3A6969%2Fannounce
+```
+Ein Klick auf das Kopieren-Symbol (<img style="position: relative; top: 7px;" src="https://github.com/LinuxWelt/LinuxWelt/blob/main/docs/images/copypaste_icon.png" width="22px">) ganz rechts, das beim Darüberfahren dieser Adresszeile mit der Maus erscheint, kopiert den Magnet-Link in die Zwischenablage.
+
+
+## 🆓 Lizenzen
+Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
+
 -->
