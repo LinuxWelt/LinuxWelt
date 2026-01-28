@@ -17,7 +17,6 @@ Hier findet sich zur LinuxWelt 2026-2 in Kürze der Download der zugehörigen He
     5. Hardware Detection Tool 0.5.2 (Nur BIOS)
     6. Plop Bootmanager 6.0 (Nur BIOS)
 
-<!--
 ## 📥 Download:
 Image-Datei: [LinuxWelt_2026-2.iso](https://torrent.code2decode.com/LinuxWelt_2026-2/LinuxWelt_2026-2.iso) - [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-2/LinuxWelt_2026-2.iso) (Größe: 8,1 GB). 
 
@@ -37,5 +36,3 @@ Ein Klick auf das Kopieren-Symbol (<img style="position: relative; top: 7px;" sr
 
 ## 🆓 Lizenzen
 Das ISO-Image enhält Open-Source-Software unter entsprechenden Lizenzen (GNU General Public License [Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) und [Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) sowie weiteren, dazu kompatbilen Lizenzen wie der [MIT Lizenz](https://opensource.org/licenses/MIT) und der [Apache Licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).) 
-
--->
