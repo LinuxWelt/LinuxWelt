@@ -20,6 +20,9 @@ Hier findet sich zur LinuxWelt 2026-2 das Extra-Image als ISO-Datei zum Download
 ## 📥 Download
 Image-Datei: [LinuxWelt_2026-2-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2026-2-Extra/LinuxWelt_2026-2-Extra.iso), (Grösse: 3,9 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-2-Extra/LinuxWelt_2026-2-Extra.iso).
 
+Checksumme SHA256: ce8118c8020989c7eef444bdb00688d998f68040318ca4433bd7f408107b255b
+
+
 ## Bittorrent
 Für umfangreiche Downloads ist Bittorrent generell besser geeignet, denn das Protokoll ist immun gegen Unterbrechungen und korrumpierte Dateien. Zum Download kann ein beliebiger Bittorrent Client dienen. Unter Linux beispielsweise Transmission (Gnome), KTorrent (KDE), qBittorrent oder Deluge. Für Windows ist [Tixati](https://www.tixati.com/download/) ein empfehlenswerter Bittorrent-Client, Freeware und ohne Adware, englischsprachig, in 32- sowie 64-Bit.
 
