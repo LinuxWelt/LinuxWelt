@@ -1,9 +1,9 @@
 # LinuxWelt 2026-3 Extra-Image
 
-Hier findet sich zur Veröffentlichung der LinuxWelt 2026-3 das Extra-Image als ISO-Datei zum Download. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.14 im BIOS- sowie UEFI-Modus.
+Hier findet sich das Extra-Image zur LinuxWelt 2026-3 als ISO-Datei zum Download. Es ist der offizielle Download und Torrent der Redaktion. Die ISO-Datei ist zur Übertragung auf eine DVD-R (4,3 GB) sowie für USB-Sticks geeignet (ab 8 GB Kapazität) und bootet ein Multibootmenü auf der Basis von Grub 2.14 im BIOS- sowie UEFI-Modus.
 
 ## 📥 Download
-Image-Datei: [LinuxWelt_2026-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2026-3-Extra/LinuxWelt_2026-3-Extra.iso), (Grösse: 4,3 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-3-Extra/LinuxWelt_2026-3-Extra.iso).
+Image-Datei: [LinuxWelt_2026-3-Extra.iso](https://torrent.code2decode.com/LinuxWelt_2026-3-Extra/LinuxWelt_2026-3-Extra.iso), (Grösse: 4,1 GB) [Mirror](https://torrent3.code2decode.com/LinuxWelt_2026-3-Extra/LinuxWelt_2026-3-Extra.iso).
 
 Checksumme SHA256: fea1d3beabb6c174641ca16a8142b148ddfe60bd438d642b3e8cbbf54e494b1b
 
