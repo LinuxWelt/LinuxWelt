@@ -1,14 +1,12 @@
 ![Optional Text](../main/docs/images/LinuxWelt.svg)
 
-Dies ist der offizielle Github-Account der Redaktion LinuxWelt.
-
-Hier finden sich Code-Beispiele, Scriptdateien und die Downloads von Heft-DVDs bis zurück zur LinuxWelt 2022-1 als ISO-Datei über Bittorrent und seit September 2022 auch als direkter Download (HTTP) von den Servern der Redaktion. Die ISO-Dateien sind alle auch für USB-Sticks geeignet, starten unter BIOS auch unter UEFI und zeigen ein Multibootmenü zur Auswahl der enhaltenen Systeme.
+Hier finden sich Code-Beispiele, Scriptdateien und die Downloads älterer Heft-DVDs von 2026-3 bis zurück zur LinuxWelt 2022-1 als ISO-Datei über Bittorrent und seit September 2022 auch als direkter Download (HTTP) von den Servern der Redaktion. Die ISO-Dateien sind alle auch für USB-Sticks geeignet, starten unter BIOS auch unter UEFI und zeigen ein Multibootmenü zur Auswahl der enhaltenen Systeme.
 
 # 💿 Liste der ISO-Dateien 
 
 ## 🐧LinuxWelt Heft-DVDs und Extra-DVDs als ISO-Datei
-   ⏳[LinuxWelt_2026-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-3-Extra) - das aktuelle Heft  
-   ⏳[LinuxWelt_2026-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-3) - das aktuelle Heft  
+   ⏳[LinuxWelt_2026-3-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-3-Extra)  
+   ⏳[LinuxWelt_2026-3](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-3)  
    📀[LinuxWelt_2026-2-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-2-Extra)  
    📀[LinuxWelt_2026-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-2)  
    📀[LinuxWelt_2026-1-Extra](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_2026-1-Extra) - Extra-Image #1  
