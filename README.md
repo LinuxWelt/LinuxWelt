@@ -30,8 +30,8 @@ Hier finden sich Code-Beispiele, Scriptdateien und die Downloads älterer Heft-D
 ## 🐧Sonderhefte Linux XXL, Heft-DVDs und Extra-DVDs
 
 <!-- Nur Sonderhefte ab hier -->
-   ⭐[Sonderheft_LinuxWelt_2026-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_Extra_2026-2)- das aktuelle Heft     
-   ⭐[Sonderheft_LinuxWelt_2026-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2026-2)- das aktuelle Heft      
+   ⭐[Sonderheft_LinuxWelt_2026-2 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_Extra_2026-2)     
+   ⭐[Sonderheft_LinuxWelt_2026-2](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2026-2)  
    📀[Sonderheft_LinuxWelt_2026-1 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_Extra_2026-1)   
    📀[Sonderheft_LinuxWelt_2026-1](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_XXL_2026-1)    
    📀[Sonderheft_LinuxWelt_2025-3 Extra-Image](https://github.com/LinuxWelt/LinuxWelt/tree/main/torrents/LinuxWelt_SH_Extra_2025-3)     
